@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Investments from "./pages/investments/investments.component";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+
+import GraphPage from "./pages/graph/graph.component";
+import AddFund from "./pages/add/add.component";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Route exact path="/" component={Investments} />
+        <Route path="/add" component={AddFund} />
+        <Route path="/fund/:fundName" component={GraphPage} />
+      </div>
+    </Router>
   );
 }
 
