@@ -1,0 +1,4298 @@
+[
+  {
+    "label": "Aditya Birla Sun Life Arbitrage Fund - Dir - Dividend",
+    "value": 119525
+  },
+  {
+    "label": "Aditya Birla Sun Life Arbitrage Fund - Dir - Growth",
+    "value": 119526
+  },
+  {
+    "label": "Aditya Birla Sun Life Arbitrage Fund - Dividend",
+    "value": 112087
+  },
+  {
+    "label": "Aditya Birla Sun Life Arbitrage Fund - Growth",
+    "value": 112088
+  },
+  {
+    "label": "Aditya Birla Sun Life Balanced Advantage Fund - Dir - Dividend",
+    "value": 131671
+  },
+  {
+    "label": "Aditya Birla Sun Life Balanced Advantage Fund - Dir - Growth",
+    "value": 131670
+  },
+  {
+    "label": "Aditya Birla Sun Life Balanced Advantage Fund - Dividend",
+    "value": 131665
+  },
+  {
+    "label": "Aditya Birla Sun Life Balanced Advantage Fund - Growth",
+    "value": 131666
+  },
+  {
+    "label": "Aditya Birla Sun Life Dividend Yield Fund - Dir - Dividend",
+    "value": 119506
+  },
+  {
+    "label": "Aditya Birla Sun Life Dividend Yield Fund - Dir - Growth",
+    "value": 119507
+  },
+  {
+    "label": "Aditya Birla Sun Life Dividend Yield Fund - Dividend",
+    "value": 101737
+  },
+  {
+    "label": "Aditya Birla Sun Life Dividend Yield Fund - Growth",
+    "value": 101738
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Advantage Fund - Dir - Dividend",
+    "value": 119433
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Advantage Fund - Dir - Growth",
+    "value": 119436
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Advantage Fund - Dividend",
+    "value": 100034
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Advantage Fund - Growth",
+    "value": 100033
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Fund - Dir - Dividend",
+    "value": 120565
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Fund - Dir - Growth",
+    "value": 120564
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Fund - Dividend",
+    "value": 103165
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Fund - Growth",
+    "value": 103166
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Hybrid 95 Fund - Dir - Dividend",
+    "value": 120518
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Hybrid 95 Fund - Dir - Growth",
+    "value": 120517
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Hybrid 95 Fund - Dividend",
+    "value": 103154
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Hybrid 95 Fund - Growth",
+    "value": 103155
+  },
+  {
+    "label": "Aditya Birla Sun Life Equity Savings Fund - Reg - Growth",
+    "value": 132998
+  },
+  {
+    "label": "Aditya Birla Sun Life Focused Equity Fund - Dir - Dividend",
+    "value": 119563
+  },
+  {
+    "label": "Aditya Birla Sun Life Focused Equity Fund - Dir - Growth",
+    "value": 119564
+  },
+  {
+    "label": "Aditya Birla Sun Life Focused Equity Fund - Dividend",
+    "value": 103308
+  },
+  {
+    "label": "Aditya Birla Sun Life Focused Equity Fund - Growth",
+    "value": 103309
+  },
+  {
+    "label": "Aditya Birla Sun Life Frontline Equity Fund - Dir - Dividend",
+    "value": 119527
+  },
+  {
+    "label": "Aditya Birla Sun Life Frontline Equity Fund - Dir - Growth",
+    "value": 119528
+  },
+  {
+    "label": "Aditya Birla Sun Life Frontline Equity Fund - Reg - Dividend",
+    "value": 103173
+  },
+  {
+    "label": "Aditya Birla Sun Life Frontline Equity Fund - Reg - Growth",
+    "value": 103174
+  },
+  {
+    "label": "Aditya Birla Sun Life India GenNext Fund - Dir - Dividend",
+    "value": 119590
+  },
+  {
+    "label": "Aditya Birla Sun Life India GenNext Fund - Dir - Growth",
+    "value": 119591
+  },
+  {
+    "label": "Aditya Birla Sun Life India GenNext Fund - Dividend",
+    "value": 103110
+  },
+  {
+    "label": "Aditya Birla Sun Life India GenNext Fund - Growth",
+    "value": 103111
+  },
+  {
+    "label": "Aditya Birla Sun Life Mid Cap Fund - Plan A - Dir - Dividend",
+    "value": 119619
+  },
+  {
+    "label": "Aditya Birla Sun Life Mid Cap Fund - Plan A - Dir - Growth",
+    "value": 119620
+  },
+  {
+    "label": "Aditya Birla Sun Life Mid Cap Fund - Plan A - Dividend",
+    "value": 101591
+  },
+  {
+    "label": "Aditya Birla Sun Life Mid Cap Fund - Plan A - Growth",
+    "value": 101592
+  },
+  {
+    "label": "Aditya Birla Sun Life Pure Value Fund - Dir - Dividend",
+    "value": 119658
+  },
+  {
+    "label": "Aditya Birla Sun Life Pure Value Fund - Dir - Growth",
+    "value": 119659
+  },
+  {
+    "label": "Aditya Birla Sun Life Pure Value Fund - Dividend",
+    "value": 108166
+  },
+  {
+    "label": "Aditya Birla Sun Life Pure Value Fund - Growth",
+    "value": 108167
+  },
+  {
+    "label": "Aditya Birla Sun Life Regular Savings Fund - Dir - Growth",
+    "value": 120705
+  },
+  {
+    "label": "Aditya Birla Sun Life Regular Savings Fund - Reg - Growth",
+    "value": 101818
+  },
+  {
+    "label": "Aditya Birla Sun Life Small Cap Fund - Dir - Dividend",
+    "value": 119557
+  },
+  {
+    "label": "Aditya Birla Sun Life Small Cap Fund - Dir - Growth",
+    "value": 119556
+  },
+  {
+    "label": "Aditya Birla Sun Life Small Cap Fund - Dividend",
+    "value": 105805
+  },
+  {
+    "label": "Aditya Birla Sun Life Small Cap Fund - Growth",
+    "value": 105804
+  },
+  {
+    "label": "Axis Bluechip Fund - Dir - Dividend",
+    "value": 120466
+  },
+  {
+    "label": "Axis Bluechip Fund - Dir - Growth",
+    "value": 120465
+  },
+  {
+    "label": "Axis Bluechip Fund - Dividend",
+    "value": 112278
+  },
+  {
+    "label": "Axis Bluechip Fund - Growth",
+    "value": 112277
+  },
+  {
+    "label": "Axis Dynamic Equity Fund - Dir - Growth",
+    "value": 141642
+  },
+  {
+    "label": "Axis Dynamic Equity Fund - Reg ? Dividend",
+    "value": 141645
+  },
+  {
+    "label": "Axis Dynamic Equity Fund - Reg - Growth",
+    "value": 141644
+  },
+  {
+    "label": "Axis Equity Hybrid Fund - Dir - Growth",
+    "value": 144394
+  },
+  {
+    "label": "Axis Equity Hybrid Fund - Reg ? Dividend",
+    "value": 144396
+  },
+  {
+    "label": "Axis Equity Hybrid Fund - Reg - Growth",
+    "value": 144393
+  },
+  {
+    "label": "Axis Equity Saver Fund - Reg - Growth",
+    "value": 135122
+  },
+  {
+    "label": "Axis Focused 25 Fund - Dir - Dividend",
+    "value": 120467
+  },
+  {
+    "label": "Axis Focused 25 Fund - Dir - Growth",
+    "value": 120468
+  },
+  {
+    "label": "Axis Focused 25 Fund - Dividend",
+    "value": 117559
+  },
+  {
+    "label": "Axis Focused 25 Fund - Growth",
+    "value": 117560
+  },
+  {
+    "label": "Axis Growth Opportunities Fund - Dir ? Dividend",
+    "value": 145109
+  },
+  {
+    "label": "Axis Growth Opportunities Fund - Dir ? Growth",
+    "value": 145110
+  },
+  {
+    "label": "Axis Growth Opportunities Fund - Reg ? Dividend",
+    "value": 145111
+  },
+  {
+    "label": "Axis Growth Opportunities Fund - Reg ? Growth",
+    "value": 145112
+  },
+  {
+    "label": "Axis Midcap Fund - Dir - Dividend",
+    "value": 120504
+  },
+  {
+    "label": "Axis Midcap Fund - Dir - Growth",
+    "value": 120505
+  },
+  {
+    "label": "Axis Midcap Fund - Dividend",
+    "value": 114565
+  },
+  {
+    "label": "Axis Midcap Fund - Growth",
+    "value": 114564
+  },
+  {
+    "label": "Axis Multi Cap Fund ? Dir - Growth",
+    "value": 141925
+  },
+  {
+    "label": "Axis Multicap Fund - Reg ? Dividend",
+    "value": 141928
+  },
+  {
+    "label": "Axis Multicap Fund - Reg - Growth",
+    "value": 141927
+  },
+  {
+    "label": "Axis Small Cap Fund - Dir ? Dividend",
+    "value": 125351
+  },
+  {
+    "label": "Axis Small Cap Fund ? Dir ? Growth",
+    "value": 125354
+  },
+  {
+    "label": "Axis Small Cap Fund - Reg - Dividend",
+    "value": 125352
+  },
+  {
+    "label": "Axis Small Cap Fund - Reg ? Growth",
+    "value": 125350
+  },
+  {
+    "label": "Baroda Pioneer Multi Cap Fund - Dir - Dividend",
+    "value": 119353
+  },
+  {
+    "label": "Baroda Pioneer Multi Cap Fund - Dir - Growth",
+    "value": 119354
+  },
+  {
+    "label": "Baroda Pioneer Multi Cap Fund - Dividend",
+    "value": 102021
+  },
+  {
+    "label": "Baroda Pioneer Multi Cap Fund - Growth",
+    "value": 102020
+  },
+  {
+    "label": "Canara Robeco Bluechip Equity Fund - Dir - Growth",
+    "value": 118269
+  },
+  {
+    "label": "Canara Robeco Bluechip Equity Fund - Growth",
+    "value": 113221
+  },
+  {
+    "label": "Canara Robeco Emerging Equities - Dir - Dividend",
+    "value": 118277
+  },
+  {
+    "label": "Canara Robeco Emerging Equities - Dir - Growth",
+    "value": 118278
+  },
+  {
+    "label": "Canara Robeco Emerging Equities - Dividend",
+    "value": 102921
+  },
+  {
+    "label": "Canara Robeco Emerging Equities - Growth",
+    "value": 102920
+  },
+  {
+    "label": "Canara Robeco Equity Debt Allocation Fund - Dir - Growth",
+    "value": 118272
+  },
+  {
+    "label": "Canara Robeco Equity Debt Allocation Fund - Growth",
+    "value": 106166
+  },
+  {
+    "label": "Canara Robeco Equity Diversified Fund - Dir - Growth",
+    "value": 118275
+  },
+  {
+    "label": "Canara Robeco Equity Diversified Fund - Dir - Income",
+    "value": 118276
+  },
+  {
+    "label": "Canara Robeco Equity Diversified Fund - Growth",
+    "value": 101922
+  },
+  {
+    "label": "Canara Robeco Equity Diversified Fund - Income",
+    "value": 101923
+  },
+  {
+    "label": "CPSE ETF",
+    "value": 140107
+  },
+  {
+    "label": "DSP BlackRock Equity & Bond Fund - Dir - Dividend",
+    "value": 119020
+  },
+  {
+    "label": "DSP BlackRock Equity & Bond Fund - Dir - Growth",
+    "value": 119019
+  },
+  {
+    "label": "DSP BlackRock Equity & Bond Fund - Dividend",
+    "value": 100082
+  },
+  {
+    "label": "DSP BlackRock Equity & Bond Fund - Growth",
+    "value": 100081
+  },
+  {
+    "label": "DSP BlackRock Equity Fund - Dir - Dividend",
+    "value": 119077
+  },
+  {
+    "label": "DSP BlackRock Equity Fund - Dir - Growth",
+    "value": 119076
+  },
+  {
+    "label": "DSP BlackRock Equity Fund - Reg - Dividend",
+    "value": 100080
+  },
+  {
+    "label": "DSP BlackRock Equity Fund - Reg - Growth",
+    "value": 105875
+  },
+  {
+    "label": "DSP BlackRock Equity Opportunities Fund - Dir - Dividend",
+    "value": 119219
+  },
+  {
+    "label": "DSP BlackRock Equity Opportunities Fund - Dir - Growth",
+    "value": 119218
+  },
+  {
+    "label": "DSP BlackRock Equity Opportunities Fund - Reg - Dividend",
+    "value": 103820
+  },
+  {
+    "label": "DSP BlackRock Equity Opportunities Fund - Reg - Growth",
+    "value": 103819
+  },
+  {
+    "label": "DSP BlackRock Equity Savings Fund - Reg - Growth",
+    "value": 136563
+  },
+  {
+    "label": "DSP BlackRock Focus Fund - Dir - Dividend",
+    "value": 119095
+  },
+  {
+    "label": "DSP BlackRock Focus Fund - Dir - Growth",
+    "value": 119096
+  },
+  {
+    "label": "DSP BlackRock Focus Fund - Dividend",
+    "value": 113032
+  },
+  {
+    "label": "DSP BlackRock Focus Fund - Growth",
+    "value": 112901
+  },
+  {
+    "label": "DSP BlackRock India Tiger Fund - Dir - Dividend",
+    "value": 119248
+  },
+  {
+    "label": "DSP BlackRock India Tiger Fund - Dir - Growth",
+    "value": 119247
+  },
+  {
+    "label": "DSP BlackRock India Tiger Fund - Reg - Dividend",
+    "value": 102435
+  },
+  {
+    "label": "DSP BlackRock India Tiger Fund - Reg - Growth",
+    "value": 102434
+  },
+  {
+    "label": "DSP BlackRock Midcap Fund - Dir - Dividend",
+    "value": 119070
+  },
+  {
+    "label": "DSP BlackRock Midcap Fund - Dir - Growth",
+    "value": 119071
+  },
+  {
+    "label": "DSP BlackRock Midcap Fund - Reg - Dividend",
+    "value": 104482
+  },
+  {
+    "label": "DSP BlackRock Midcap Fund - Reg - Growth",
+    "value": 104481
+  },
+  {
+    "label": "DSP BlackRock Small Cap Fund - Dir - Dividend",
+    "value": 119213
+  },
+  {
+    "label": "DSP BlackRock Small Cap Fund - Dir - Growth",
+    "value": 119212
+  },
+  {
+    "label": "DSP BlackRock Small Cap Fund - Reg - Dividend",
+    "value": 113153
+  },
+  {
+    "label": "DSP BlackRock Small Cap Fund - Reg - Growth",
+    "value": 105989
+  },
+  {
+    "label": "DSP BlackRock Top 100 Equity Fund - Dir - Dividend",
+    "value": 119249
+  },
+  {
+    "label": "DSP BlackRock Top 100 Equity Fund - Dir - Growth",
+    "value": 119250
+  },
+  {
+    "label": "DSP BlackRock Top 100 Equity Fund - Reg - Dividend",
+    "value": 101636
+  },
+  {
+    "label": "DSP BlackRock Top 100 Equity Fund - Reg - Growth",
+    "value": 101635
+  },
+  {
+    "label": "HDFC Arbitrage Fund - Dir - Growth",
+    "value": 118931
+  },
+  {
+    "label": "HDFC Arbitrage Fund - Ret - Dividend",
+    "value": 106799
+  },
+  {
+    "label": "HDFC Arbitrage Fund - Ret - Growth",
+    "value": 106796
+  },
+  {
+    "label": "HDFC Arbitrage Fund - WP - Dir - Dividend",
+    "value": 129053
+  },
+  {
+    "label": "HDFC Arbitrage Fund - WP - Dir - Growth",
+    "value": 129052
+  },
+  {
+    "label": "HDFC Balanced Advantage Fund - Dir - Dividend",
+    "value": 118969
+  },
+  {
+    "label": "HDFC Balanced Advantage Fund - Dir - Growth",
+    "value": 118968
+  },
+  {
+    "label": "HDFC Balanced Advantage Fund - Dividend",
+    "value": 100120
+  },
+  {
+    "label": "HDFC Balanced Advantage Fund - Growth",
+    "value": 100119
+  },
+  {
+    "label": "HDFC Capital Builder Value Fund - Dir - Dividend",
+    "value": 118934
+  },
+  {
+    "label": "HDFC Capital Builder Value Fund - Dir - Growth",
+    "value": 118935
+  },
+  {
+    "label": "HDFC Capital Builder Value Fund - Dividend",
+    "value": 101765
+  },
+  {
+    "label": "HDFC Capital Builder Value Fund - Growth",
+    "value": 101764
+  },
+  {
+    "label": "HDFC Childrens Gift Fund",
+    "value": 100900
+  },
+  {
+    "label": "HDFC Childrens Gift Fund - Dir",
+    "value": 119066
+  },
+  {
+    "label": "HDFC Equity Fund - Dir - Dividend",
+    "value": 118954
+  },
+  {
+    "label": "HDFC Equity Fund - Dir - Growth",
+    "value": 118955
+  },
+  {
+    "label": "HDFC Equity Fund - Dividend",
+    "value": 101763
+  },
+  {
+    "label": "HDFC Equity Fund - Growth",
+    "value": 101762
+  },
+  {
+    "label": "HDFC Equity Savings Fund - Dir - Dividend",
+    "value": 119129
+  },
+  {
+    "label": "HDFC Equity Savings Fund - Dir - Growth",
+    "value": 119128
+  },
+  {
+    "label": "HDFC Equity Savings Fund - Dividend",
+    "value": 101586
+  },
+  {
+    "label": "HDFC Equity Savings Fund - Growth",
+    "value": 101585
+  },
+  {
+    "label": "HDFC Growth Opportunities Fund - Dir - Dividend",
+    "value": 130499
+  },
+  {
+    "label": "HDFC Growth Opportunities Fund - Dir - Growth",
+    "value": 130498
+  },
+  {
+    "label": "HDFC Growth Opportunities Fund - Dividend",
+    "value": 130497
+  },
+  {
+    "label": "HDFC Growth Opportunities Fund - Growth",
+    "value": 130496
+  },
+  {
+    "label": "HDFC Hybrid Debt Fund - Dir - Growth",
+    "value": 119118
+  },
+  {
+    "label": "HDFC Hybrid Debt Fund - Growth",
+    "value": 102147
+  },
+  {
+    "label": "HDFC Hybrid Equity Fund - Dir - Dividend",
+    "value": 119061
+  },
+  {
+    "label": "HDFC Hybrid Equity Fund - Dir - Growth",
+    "value": 119062
+  },
+  {
+    "label": "HDFC Hybrid Equity Fund - Dividend",
+    "value": 102947
+  },
+  {
+    "label": "HDFC Hybrid Equity Fund - Growth",
+    "value": 102948
+  },
+  {
+    "label": "HDFC Index Fund - Sensex Plan",
+    "value": 101281
+  },
+  {
+    "label": "HDFC Index Fund - Sensex Plan - Dir",
+    "value": 119065
+  },
+  {
+    "label": "HDFC Index Fund-NIFTY 50 Plan",
+    "value": 101525
+  },
+  {
+    "label": "HDFC Index Fund-NIFTY 50 Plan - Dir",
+    "value": 119063
+  },
+  {
+    "label": "HDFC Mid-Cap Opportunities Fund - Dir - Dividend",
+    "value": 118988
+  },
+  {
+    "label": "HDFC Mid-Cap Opportunities Fund - Dir - Growth",
+    "value": 118989
+  },
+  {
+    "label": "HDFC Mid-Cap Opportunities Fund - Dividend",
+    "value": 105757
+  },
+  {
+    "label": "HDFC Mid-Cap Opportunities Fund - Growth",
+    "value": 105758
+  },
+  {
+    "label": "HDFC Small Cap Fund - Dir - Dividend",
+    "value": 130504
+  },
+  {
+    "label": "HDFC Small Cap Fund - Dir - Growth",
+    "value": 130503
+  },
+  {
+    "label": "HDFC Small Cap Fund - Dividend",
+    "value": 130501
+  },
+  {
+    "label": "HDFC Small Cap Fund - Growth",
+    "value": 130502
+  },
+  {
+    "label": "HDFC Top 100 Fund - Dir - Dividend",
+    "value": 119017
+  },
+  {
+    "label": "HDFC Top 100 Fund - Dir - Growth",
+    "value": 119018
+  },
+  {
+    "label": "HDFC Top 100 Fund - Dividend",
+    "value": 102001
+  },
+  {
+    "label": "HDFC Top 100 Fund - Growth",
+    "value": 102000
+  },
+  {
+    "label": "HSBC Equity Hybrid Fund - Dir ? Dividend",
+    "value": 145226
+  },
+  {
+    "label": "HSBC Equity Hybrid Fund - Dir - Growth",
+    "value": 145228
+  },
+  {
+    "label": "HSBC Equity Hybrid Fund - Reg - Dividend",
+    "value": 145225
+  },
+  {
+    "label": "HSBC Equity Hybrid Fund - Reg - Growth",
+    "value": 145227
+  },
+  {
+    "label": "HSBC Large Cap Equity Fund - Dir - Dividend",
+    "value": 120029
+  },
+  {
+    "label": "HSBC Large Cap Equity Fund - Dir - Growth",
+    "value": 120030
+  },
+  {
+    "label": "HSBC Large Cap Equity Fund - Dividend",
+    "value": 101593
+  },
+  {
+    "label": "HSBC Large Cap Equity Fund - Growth",
+    "value": 101594
+  },
+  {
+    "label": "ICICI Prudential Balanced Advantage Fund  - Dir -  Dividend",
+    "value": 120376
+  },
+  {
+    "label": "ICICI Prudential Balanced Advantage Fund  - Dir - Growth",
+    "value": 120377
+  },
+  {
+    "label": "ICICI Prudential Balanced Advantage Fund - Reg - Dividend",
+    "value": 104686
+  },
+  {
+    "label": "ICICI Prudential Balanced Advantage Fund - Reg - Growth",
+    "value": 104685
+  },
+  {
+    "label": "ICICI Prudential Bluechip Fund - Dir -  Dividend",
+    "value": 120585
+  },
+  {
+    "label": "ICICI Prudential Bluechip Fund - Dir - Growth",
+    "value": 120586
+  },
+  {
+    "label": "ICICI Prudential Bluechip Fund - Dividend",
+    "value": 108465
+  },
+  {
+    "label": "ICICI Prudential Bluechip Fund - Growth",
+    "value": 108466
+  },
+  {
+    "label": "ICICI Prudential Equity - Arbitrage Fund - Dir -  Dividend",
+    "value": 120365
+  },
+  {
+    "label": "ICICI Prudential Equity - Arbitrage Fund - Dir - Growth",
+    "value": 120364
+  },
+  {
+    "label": "ICICI Prudential Equity - Arbitrage Fund - Reg - Dividend",
+    "value": 104681
+  },
+  {
+    "label": "ICICI Prudential Equity - Arbitrage Fund - Reg - Growth",
+    "value": 104683
+  },
+  {
+    "label": "ICICI Prudential Equity & Debt Fund - Dir -  Growth",
+    "value": 120251
+  },
+  {
+    "label": "ICICI Prudential Equity & Debt Fund - Growth",
+    "value": 100356
+  },
+  {
+    "label": "ICICI Prudential Equity & Debt Fund - Mthly Dividend",
+    "value": 100355
+  },
+  {
+    "label": "ICICI Prudential Equity Savings Fund - Dir - Growth",
+    "value": 133054
+  },
+  {
+    "label": "ICICI Prudential Equity Savings Fund - Reg - Growth",
+    "value": 133051
+  },
+  {
+    "label": "ICICI Prudential Exports and Services Fund - Dir - Dividend",
+    "value": 120687
+  },
+  {
+    "label": "ICICI Prudential Exports and Services Fund - Dir - Growth",
+    "value": 120688
+  },
+  {
+    "label": "ICICI Prudential Exports and Services Fund - Dividend",
+    "value": 103313
+  },
+  {
+    "label": "ICICI Prudential Exports and Services Fund - Growth",
+    "value": 103312
+  },
+  {
+    "label": "ICICI Prudential Focused Equity Fund  - Dir - Dividend",
+    "value": 120723
+  },
+  {
+    "label": "ICICI Prudential Focused Equity Fund  - Dir - Growth",
+    "value": 120722
+  },
+  {
+    "label": "ICICI Prudential Focused Equity Fund  - Ret - Dividend",
+    "value": 111958
+  },
+  {
+    "label": "ICICI Prudential Focused Equity Fund  - Ret - Growth",
+    "value": 111957
+  },
+  {
+    "label": "ICICI Prudential India Opportunities fund ? Dir ? Growth",
+    "value": 145897
+  },
+  {
+    "label": "ICICI Prudential India Opportunities fund ? Reg ? Dividend",
+    "value": 145899
+  },
+  {
+    "label": "ICICI Prudential India Opportunities fund ? Reg ? Growth",
+    "value": 145896
+  },
+  {
+    "label": "ICICI Prudential Large & Mid Cap Fund - Dir - Dividend",
+    "value": 120597
+  },
+  {
+    "label": "ICICI Prudential Large & Mid Cap Fund - Dir - Growth",
+    "value": 120596
+  },
+  {
+    "label": "ICICI Prudential Large & Mid Cap Fund - Dividend",
+    "value": 100348
+  },
+  {
+    "label": "ICICI Prudential Large & Mid Cap Fund - Growth",
+    "value": 100349
+  },
+  {
+    "label": "ICICI Prudential MidCap Fund - Dir - Dividend",
+    "value": 120380
+  },
+  {
+    "label": "ICICI Prudential MidCap Fund - Dir - Growth",
+    "value": 120381
+  },
+  {
+    "label": "ICICI Prudential MidCap Fund - Dividend",
+    "value": 102529
+  },
+  {
+    "label": "ICICI Prudential MidCap Fund - Growth",
+    "value": 102528
+  },
+  {
+    "label": "ICICI Prudential Multi-Asset Fund - Dir - Dividend",
+    "value": 120335
+  },
+  {
+    "label": "ICICI Prudential Multi-Asset Fund - Dir - Growth",
+    "value": 120334
+  },
+  {
+    "label": "ICICI Prudential Multi-Asset Fund - Dividend",
+    "value": 101143
+  },
+  {
+    "label": "ICICI Prudential Multi-Asset Fund - Growth",
+    "value": 101144
+  },
+  {
+    "label": "ICICI Prudential Multicap Fund - Dir - Dividend",
+    "value": 120598
+  },
+  {
+    "label": "ICICI Prudential Multicap Fund - Dir - Growth",
+    "value": 120599
+  },
+  {
+    "label": "ICICI Prudential Multicap Fund - Dividend",
+    "value": 101706
+  },
+  {
+    "label": "ICICI Prudential Multicap Fund - Growth",
+    "value": 101228
+  },
+  {
+    "label": "ICICI Prudential Nifty ETF",
+    "value": 121366
+  },
+  {
+    "label": "ICICI Prudential Nifty Index Fund - Dir - Growth",
+    "value": 120620
+  },
+  {
+    "label": "ICICI Prudential Nifty Index Fund - Reg - Growth",
+    "value": 101349
+  },
+  {
+    "label": "ICICI Prudential Nifty Next 50 Index Fund - Dir - Dividend",
+    "value": 120683
+  },
+  {
+    "label": "ICICI Prudential Nifty Next 50 Index Fund - Dir - Growth",
+    "value": 120684
+  },
+  {
+    "label": "ICICI Prudential Nifty Next 50 Index Fund - Dividend",
+    "value": 112958
+  },
+  {
+    "label": "ICICI Prudential Nifty Next 50 Index Fund - Growth",
+    "value": 112957
+  },
+  {
+    "label": "ICICI Prudential Regular Savings Fund - Dir - Growth",
+    "value": 120616
+  },
+  {
+    "label": "ICICI Prudential Regular Savings Fund - Growth",
+    "value": 102330
+  },
+  {
+    "label": "ICICI Prudential Smallcap Fund - Dir -  Dividend",
+    "value": 120870
+  },
+  {
+    "label": "ICICI Prudential Smallcap Fund - Dir - Growth",
+    "value": 120591
+  },
+  {
+    "label": "ICICI Prudential Smallcap Fund - Ret - Dividend",
+    "value": 106822
+  },
+  {
+    "label": "ICICI Prudential Smallcap Fund - Ret - Growth",
+    "value": 106823
+  },
+  {
+    "label": "ICICI Prudential US Bluechip Equity Fund - Dir - Growth",
+    "value": 120186
+  },
+  {
+    "label": "ICICI Prudential US Bluechip Equity Fund - Dividend",
+    "value": 117619
+  },
+  {
+    "label": "ICICI Prudential US Bluechip Equity Fund - Growth",
+    "value": 117620
+  },
+  {
+    "label": "ICICI Prudential Value  Discovery Fund - Dir -  Dividend",
+    "value": 120322
+  },
+  {
+    "label": "ICICI Prudential Value Discovery Fund - Dir - Growth",
+    "value": 120323
+  },
+  {
+    "label": "ICICI Prudential Value Discovery Fund - Dividend",
+    "value": 102595
+  },
+  {
+    "label": "ICICI Prudential Value Discovery Fund - Growth",
+    "value": 102594
+  },
+  {
+    "label": "IDFC Arbitrage Fund - Dir - Growth",
+    "value": 118474
+  },
+  {
+    "label": "IDFC Arbitrage Fund - Reg - Growth",
+    "value": 108845
+  },
+  {
+    "label": "IDFC Core Equity Fund - Dir - Dividend",
+    "value": 118420
+  },
+  {
+    "label": "IDFC Core Equity Fund - Dir - Growth",
+    "value": 118419
+  },
+  {
+    "label": "IDFC Core Equity Fund - Reg - Dividend",
+    "value": 108597
+  },
+  {
+    "label": "IDFC Core Equity Fund - Reg - Growth",
+    "value": 108596
+  },
+  {
+    "label": "IDFC Dynamic Equity Fund - Reg - Dividend",
+    "value": 131354
+  },
+  {
+    "label": "IDFC Dynamic Equity Fund - Reg - Growth",
+    "value": 131357
+  },
+  {
+    "label": "IDFC Focused Equity Fund - Direct - Dividend",
+    "value": 118422
+  },
+  {
+    "label": "IDFC Focused Equity Fund - Direct - Growth",
+    "value": 118421
+  },
+  {
+    "label": "IDFC Focused Equity Fund - Reg - Dividend",
+    "value": 108593
+  },
+  {
+    "label": "IDFC Focused Equity Fund - Reg - Growth",
+    "value": 108592
+  },
+  {
+    "label": "IDFC Hybrid Equity Fund - Reg - Dividend",
+    "value": 140384
+  },
+  {
+    "label": "IDFC Hybrid Equity Fund - Reg - Growth",
+    "value": 140381
+  },
+  {
+    "label": "IDFC Multi Cap Fund - Dir - Dividend",
+    "value": 118423
+  },
+  {
+    "label": "IDFC Multi Cap Fund - Dir - Growth",
+    "value": 118424
+  },
+  {
+    "label": "IDFC Multi Cap Fund - Reg - Dividend",
+    "value": 108595
+  },
+  {
+    "label": "IDFC Multi Cap Fund - Reg - Growth",
+    "value": 108594
+  },
+  {
+    "label": "IDFC Sterling Value Fund  - Dir - Dividend",
+    "value": 118480
+  },
+  {
+    "label": "IDFC Sterling Value Fund  - Dir - Growth",
+    "value": 118481
+  },
+  {
+    "label": "IDFC Sterling Value Fund  - Reg - Dividend",
+    "value": 108908
+  },
+  {
+    "label": "IDFC Sterling Value Fund  - Reg - Growth",
+    "value": 108909
+  },
+  {
+    "label": "Invesco India Contra Fund - Dir - Dividend",
+    "value": 120349
+  },
+  {
+    "label": "Invesco India Contra Fund - Dir - Growth",
+    "value": 120348
+  },
+  {
+    "label": "Invesco India Contra Fund - Dividend",
+    "value": 105459
+  },
+  {
+    "label": "Invesco India Contra Fund - Growth",
+    "value": 105460
+  },
+  {
+    "label": "Invesco India Dynamic Equity Fund - Dir - Dividend",
+    "value": 120332
+  },
+  {
+    "label": "Invesco India Dynamic Equity Fund - Dir - Growth",
+    "value": 120333
+  },
+  {
+    "label": "Invesco India Dynamic Equity Fund - Dividend",
+    "value": 106316
+  },
+  {
+    "label": "Invesco India Dynamic Equity Fund - Growth",
+    "value": 106317
+  },
+  {
+    "label": "Invesco India Growth Opportunities Fund - Dir - Growth",
+    "value": 120357
+  },
+  {
+    "label": "Invesco India Growth Opportunities Fund - Dividend",
+    "value": 106143
+  },
+  {
+    "label": "Invesco India Growth Opportunities Fund - Growth",
+    "value": 106144
+  },
+  {
+    "label": "Invesco India Growth Opportunities Fund- Dir - Dividend",
+    "value": 120356
+  },
+  {
+    "label": "Invesco India Mid Cap Fund - Dir - Dividend",
+    "value": 120402
+  },
+  {
+    "label": "Invesco India Mid Cap Fund - Dir - Growth",
+    "value": 120403
+  },
+  {
+    "label": "Invesco India Mid Cap Fund - Dividend",
+    "value": 105504
+  },
+  {
+    "label": "Invesco India Mid Cap Fund - Growth",
+    "value": 105503
+  },
+  {
+    "label": "Invesco India Multicap Fund - Dir - Growth",
+    "value": 120413
+  },
+  {
+    "label": "Invesco India Multicap Fund - Dividend",
+    "value": 107352
+  },
+  {
+    "label": "Invesco India Multicap Fund - Growth",
+    "value": 107353
+  },
+  {
+    "label": "Invesco India Multicap Fund- Dir - Dividend",
+    "value": 120412
+  },
+  {
+    "label": "Invesco India Smallcap Fund ? Reg ? Growth",
+    "value": 145139
+  },
+  {
+    "label": "JM Large Cap Fund - Dir - Dividend",
+    "value": 120489
+  },
+  {
+    "label": "JM Large Cap Fund - Dir - Growth",
+    "value": 120490
+  },
+  {
+    "label": "JM Large Cap Fund - Dividend",
+    "value": 100218
+  },
+  {
+    "label": "JM Large Cap Fund - Growth",
+    "value": 100219
+  },
+  {
+    "label": "Kotak Balanced Advantage fund ? Reg ? Growth",
+    "value": 144333
+  },
+  {
+    "label": "Kotak Bluechip Fund - Dir - Dividend",
+    "value": 120153
+  },
+  {
+    "label": "Kotak Bluechip Fund - Dir - Growth",
+    "value": 120152
+  },
+  {
+    "label": "Kotak Bluechip Fund - Reg - Dividend",
+    "value": 114457
+  },
+  {
+    "label": "Kotak Bluechip Fund - Reg - Growth",
+    "value": 114458
+  },
+  {
+    "label": "Kotak Emerging Equity Scheme - Dir - Dividend",
+    "value": 119774
+  },
+  {
+    "label": "Kotak Emerging Equity Scheme - Dir - Growth",
+    "value": 119775
+  },
+  {
+    "label": "Kotak Emerging Equity Scheme - Reg - Dividend",
+    "value": 104907
+  },
+  {
+    "label": "Kotak Emerging Equity Scheme - Reg - Growth",
+    "value": 104908
+  },
+  {
+    "label": "Kotak Equity Arbitrage Fund - Dir - Dividend",
+    "value": 119770
+  },
+  {
+    "label": "Kotak Equity Arbitrage Fund - Dir - Growth",
+    "value": 119771
+  },
+  {
+    "label": "Kotak Equity Arbitrage Fund - Reg - Dividend",
+    "value": 105967
+  },
+  {
+    "label": "Kotak Equity Arbitrage Fund - Reg - Growth",
+    "value": 105968
+  },
+  {
+    "label": "Kotak Equity Hybrid - Dir - Dividend",
+    "value": 119767
+  },
+  {
+    "label": "Kotak Equity Hybrid - Dividend",
+    "value": 100286
+  },
+  {
+    "label": "Kotak Equity Hybrid - Growth",
+    "value": 133036
+  },
+  {
+    "label": "Kotak Equity Opportunities Fund - Dir - Dividend",
+    "value": 120157
+  },
+  {
+    "label": "Kotak Equity Opportunities Fund - Dir - Growth",
+    "value": 120158
+  },
+  {
+    "label": "Kotak Equity Opportunities Fund - Reg - Dividend",
+    "value": 103233
+  },
+  {
+    "label": "Kotak Equity Opportunities Fund - Reg - Growth",
+    "value": 103234
+  },
+  {
+    "label": "Kotak Equity Savings Fund - Reg - Growth",
+    "value": 131372
+  },
+  {
+    "label": "Kotak India EQ Contra Fund - Dir - Dividend",
+    "value": 119768
+  },
+  {
+    "label": "Kotak India EQ Contra Fund - Dir - Growth",
+    "value": 119769
+  },
+  {
+    "label": "Kotak India EQ Contra Fund - Reg - Dividend",
+    "value": 103039
+  },
+  {
+    "label": "Kotak India EQ Contra Fund - Reg - Growth",
+    "value": 103040
+  },
+  {
+    "label": "Kotak Nifty ETF",
+    "value": 112351
+  },
+  {
+    "label": "Kotak Small Cap Fund - Dir - Dividend",
+    "value": 120163
+  },
+  {
+    "label": "Kotak Small Cap Fund - Dir - Growth",
+    "value": 120164
+  },
+  {
+    "label": "Kotak Small Cap Fund - Reg - Dividend",
+    "value": 102874
+  },
+  {
+    "label": "Kotak Small Cap Fund - Reg - Growth",
+    "value": 102875
+  },
+  {
+    "label": "Kotak Standard Multicap Fund - Dir - Dividend",
+    "value": 120165
+  },
+  {
+    "label": "Kotak Standard Multicap Fund - Dir - Growth",
+    "value": 120166
+  },
+  {
+    "label": "Kotak Standard Multicap Fund - Reg - Dividend",
+    "value": 112089
+  },
+  {
+    "label": "Kotak Standard Multicap Fund - Reg - Growth",
+    "value": 112090
+  },
+  {
+    "label": "L&T Emerging Businesses Fund - Dir - Dividend",
+    "value": 129222
+  },
+  {
+    "label": "L&T Emerging Businesses Fund - Dir - Growth",
+    "value": 129220
+  },
+  {
+    "label": "L&T Emerging Businesses Fund - Reg - Dividend",
+    "value": 129221
+  },
+  {
+    "label": "L&T Emerging Businesses Fund - Reg - Growth",
+    "value": 129223
+  },
+  {
+    "label": "L&T Equity Fund - Dir - Dividend",
+    "value": 119290
+  },
+  {
+    "label": "L&T Equity Fund - Dir - Growth",
+    "value": 119291
+  },
+  {
+    "label": "L&T Equity Fund - Reg - Dividend",
+    "value": 118044
+  },
+  {
+    "label": "L&T Equity Fund - Reg - Growth",
+    "value": 118043
+  },
+  {
+    "label": "L&T Focused Equity Fund - Dir - Dividend",
+    "value": 145375
+  },
+  {
+    "label": "L&T Focused Equity Fund - Dir - Growth",
+    "value": 145376
+  },
+  {
+    "label": "L&T Focused Equity Fund - Reg - Dividend",
+    "value": 145377
+  },
+  {
+    "label": "L&T Focused Equity Fund - Reg - Growth",
+    "value": 145378
+  },
+  {
+    "label": "L&T Hybrid Equity Fund - Dir - Dividend",
+    "value": 119348
+  },
+  {
+    "label": "L&T Hybrid Equity Fund - Dir - Growth",
+    "value": 119347
+  },
+  {
+    "label": "L&T Hybrid Equity Fund - Reg - Dividend",
+    "value": 118192
+  },
+  {
+    "label": "L&T Hybrid Equity Fund - Reg - Growth",
+    "value": 118191
+  },
+  {
+    "label": "L&T India Large Cap Fund - Dir - Dividend",
+    "value": 119314
+  },
+  {
+    "label": "L&T India Large Cap Fund - Dir - Growth",
+    "value": 119308
+  },
+  {
+    "label": "L&T India Large Cap Fund - Reg - Dividend",
+    "value": 118070
+  },
+  {
+    "label": "L&T India Large Cap Fund - Reg - Growth",
+    "value": 118069
+  },
+  {
+    "label": "L&T India Value Fund - Dir - Dividend",
+    "value": 119403
+  },
+  {
+    "label": "L&T India Value Fund - Dir - Growth",
+    "value": 119404
+  },
+  {
+    "label": "L&T India Value Fund - Reg - Dividend",
+    "value": 118103
+  },
+  {
+    "label": "L&T India Value Fund - Reg - Growth",
+    "value": 118102
+  },
+  {
+    "label": "L&T Large and Midcap Fund - Dir - Dividend",
+    "value": 119398
+  },
+  {
+    "label": "L&T Large and Midcap Fund - Dir - Growth",
+    "value": 119397
+  },
+  {
+    "label": "L&T Large and Midcap Fund - Reg - Dividend",
+    "value": 118050
+  },
+  {
+    "label": "L&T Large and Midcap Fund - Reg - Growth",
+    "value": 118049
+  },
+  {
+    "label": "L&T Midcap Fund - Dir - Dividend",
+    "value": 119806
+  },
+  {
+    "label": "L&T Midcap Fund - Dir - Growth",
+    "value": 119807
+  },
+  {
+    "label": "L&T Midcap Fund - Reg - Dividend",
+    "value": 112495
+  },
+  {
+    "label": "L&T Midcap Fund - Reg - Growth",
+    "value": 112496
+  },
+  {
+    "label": "LIC MF Large & Mid Cap Fund - Dir ? Dividend",
+    "value": 133709
+  },
+  {
+    "label": "LIC MF Large & Mid Cap Fund - Dir ? Growth",
+    "value": 133710
+  },
+  {
+    "label": "LIC MF Large & Mid Cap Fund - Reg ? Dividend",
+    "value": 133712
+  },
+  {
+    "label": "LIC MF Large & Mid Cap Fund - Reg - Growth",
+    "value": 133711
+  },
+  {
+    "label": "Mirae Asset Emerging Bluechip Fund - Dir - Dividend",
+    "value": 118835
+  },
+  {
+    "label": "Mirae Asset Emerging Bluechip Fund - Dir - Growth",
+    "value": 118834
+  },
+  {
+    "label": "Mirae Asset Emerging Bluechip Fund - Dividend",
+    "value": 112931
+  },
+  {
+    "label": "Mirae Asset Emerging Bluechip Fund - Growth",
+    "value": 112932
+  },
+  {
+    "label": "Mirae Asset Focused Fund ? Dir ? Growth",
+    "value": 147206
+  },
+  {
+    "label": "Mirae Asset Focused Fund ? Reg ? Growth",
+    "value": 147203
+  },
+  {
+    "label": "Mirae Asset Great Consumer Fund - Dir - Dividend",
+    "value": 118838
+  },
+  {
+    "label": "Mirae Asset Great Consumer Fund - Dir - Growth",
+    "value": 118837
+  },
+  {
+    "label": "Mirae Asset Great Consumer Fund - Dividend",
+    "value": 114930
+  },
+  {
+    "label": "Mirae Asset Great Consumer Fund - Growth",
+    "value": 114931
+  },
+  {
+    "label": "Mirae Asset Hybrid - Equity Fund - Dir - Growth",
+    "value": 134813
+  },
+  {
+    "label": "Mirae Asset Hybrid - Equity Fund - Reg - Dividend",
+    "value": 134816
+  },
+  {
+    "label": "Mirae Asset Hybrid - Equity Fund - Reg - Growth",
+    "value": 134815
+  },
+  {
+    "label": "Mirae Asset Large Cap Fund - Direct Plan ? Dividend",
+    "value": 118826
+  },
+  {
+    "label": "Mirae Asset Large Cap Fund - Direct Plan ? Growth",
+    "value": 118825
+  },
+  {
+    "label": "Mirae Asset Large Cap Fund - Dividend Plan",
+    "value": 107579
+  },
+  {
+    "label": "Mirae Asset Large Cap Fund - Growth Plan",
+    "value": 107578
+  },
+  {
+    "label": "Mirae Asset Midcap Fund - Dir - Growth",
+    "value": 147445
+  },
+  {
+    "label": "Mirae Asset Midcap Fund - Regular Dividend",
+    "value": 147480
+  },
+  {
+    "label": "Mirae Asset Midcap Fund - Regular Plan",
+    "value": 147479
+  },
+  {
+    "label": "Motilal Oswal Dynamic Fund - Reg - Growth",
+    "value": 139870
+  },
+  {
+    "label": "Motilal Oswal Focused 25 Fund - Dir - Dividend",
+    "value": 122390
+  },
+  {
+    "label": "Motilal Oswal Focused 25 Fund - Dir - Growth",
+    "value": 122389
+  },
+  {
+    "label": "Motilal Oswal Focused 25 Fund - Reg - Dividend",
+    "value": 122388
+  },
+  {
+    "label": "Motilal Oswal Focused 25 Fund - Reg - Growth",
+    "value": 122387
+  },
+  {
+    "label": "Motilal Oswal Midcap 30 Fund - Dir - Dividend",
+    "value": 127044
+  },
+  {
+    "label": "Motilal Oswal Midcap 30 Fund - Dir - Growth",
+    "value": 127042
+  },
+  {
+    "label": "Motilal Oswal Midcap 30 Fund - Reg - Dividend",
+    "value": 127040
+  },
+  {
+    "label": "Motilal Oswal Midcap 30 Fund - Reg - Growth",
+    "value": 127039
+  },
+  {
+    "label": "Motilal Oswal Multicap 35 Fund - Dir - Dividend",
+    "value": 129047
+  },
+  {
+    "label": "Motilal Oswal Multicap 35 Fund - Dir - Growth",
+    "value": 129046
+  },
+  {
+    "label": "Motilal Oswal Multicap 35 Fund - Reg - Dividend",
+    "value": 129049
+  },
+  {
+    "label": "Motilal Oswal Multicap 35 Fund - Reg - Growth",
+    "value": 129048
+  },
+  {
+    "label": "Motilal Oswal Nasdaq 100 ETF",
+    "value": 114984
+  },
+  {
+    "label": "Nippon India Arbitrage Fund - Dir - Dividend",
+    "value": 118587
+  },
+  {
+    "label": "Nippon India Arbitrage Fund - Dir - Growth",
+    "value": 118585
+  },
+  {
+    "label": "Nippon India Arbitrage Fund - Dividend",
+    "value": 113346
+  },
+  {
+    "label": "Nippon India Arbitrage Fund - Growth",
+    "value": 113345
+  },
+  {
+    "label": "Nippon India Balanced Advantage Fund - Bonus",
+    "value": 102847
+  },
+  {
+    "label": "Nippon India Balanced Advantage Fund - Dir - Dividend",
+    "value": 118738
+  },
+  {
+    "label": "Nippon India Balanced Advantage Fund - Dir - Growth",
+    "value": 118736
+  },
+  {
+    "label": "Nippon India Balanced Advantage Fund - Dividend",
+    "value": 102848
+  },
+  {
+    "label": "Nippon India Balanced Advantage Fund - Growth",
+    "value": 102846
+  },
+  {
+    "label": "Nippon India Equity Hybrid Fund - Dir - Dividend",
+    "value": 118793
+  },
+  {
+    "label": "Nippon India Equity Hybrid Fund - Dir - Growth",
+    "value": 118794
+  },
+  {
+    "label": "Nippon India Equity Hybrid Fund - Dividend",
+    "value": 112937
+  },
+  {
+    "label": "Nippon India Equity Hybrid Fund - Growth",
+    "value": 112936
+  },
+  {
+    "label": "Nippon India Equity Hybrid Fund - Reg - Mthly Dividend",
+    "value": 139680
+  },
+  {
+    "label": "Nippon India ETF Bank BeES",
+    "value": 140087
+  },
+  {
+    "label": "Nippon India ETF Junior BeES",
+    "value": 140085
+  },
+  {
+    "label": "Nippon India ETF Nifty BeES",
+    "value": 140084
+  },
+  {
+    "label": "Nippon India Focused Equity Fund - Dir - Dividend",
+    "value": 118693
+  },
+  {
+    "label": "Nippon India Focused Equity Fund - Dir - Growth",
+    "value": 118692
+  },
+  {
+    "label": "Nippon India Focused Equity Fund - Dividend",
+    "value": 104638
+  },
+  {
+    "label": "Nippon India Focused Equity Fund - Growth",
+    "value": 104637
+  },
+  {
+    "label": "Nippon India Growth Fund - Bonus",
+    "value": 100376
+  },
+  {
+    "label": "Nippon India Growth Fund - Dir - Bonus",
+    "value": 118665
+  },
+  {
+    "label": "Nippon India Growth Fund - Dir - Dividend",
+    "value": 118666
+  },
+  {
+    "label": "Nippon India Growth Fund - Dir - Growth",
+    "value": 118668
+  },
+  {
+    "label": "Nippon India Growth Fund - Dividend",
+    "value": 100375
+  },
+  {
+    "label": "Nippon India Growth Fund - Growth",
+    "value": 100377
+  },
+  {
+    "label": "Nippon India Hybrid Bond Fund - Dir - Growth",
+    "value": 118726
+  },
+  {
+    "label": "Nippon India Hybrid Bond Fund - Growth",
+    "value": 102172
+  },
+  {
+    "label": "Nippon India Large Cap Fund - Bonus",
+    "value": 106240
+  },
+  {
+    "label": "Nippon India Large Cap Fund - Dir - Bonus",
+    "value": 118633
+  },
+  {
+    "label": "Nippon India Large Cap Fund - Dir - Dividend",
+    "value": 118634
+  },
+  {
+    "label": "Nippon India Large Cap Fund - Dir - Growth",
+    "value": 118632
+  },
+  {
+    "label": "Nippon India Large Cap Fund - Dividend",
+    "value": 106236
+  },
+  {
+    "label": "Nippon India Large Cap Fund - Growth",
+    "value": 106235
+  },
+  {
+    "label": "Nippon India Multi Cap Fund - Bonus",
+    "value": 101162
+  },
+  {
+    "label": "Nippon India Multi Cap Fund - Dir - Bonus",
+    "value": 118651
+  },
+  {
+    "label": "Nippon India Multi Cap Fund - Dir - Dividend",
+    "value": 118652
+  },
+  {
+    "label": "Nippon India Multi Cap Fund - Dir - Growth",
+    "value": 118650
+  },
+  {
+    "label": "Nippon India Multi Cap Fund - Dividend",
+    "value": 101163
+  },
+  {
+    "label": "Nippon India Multi Cap Fund - Growth",
+    "value": 101161
+  },
+  {
+    "label": "Nippon India Small Cap Fund - Bonus",
+    "value": 113178
+  },
+  {
+    "label": "Nippon India Small Cap Fund - Dir - Bonus",
+    "value": 118777
+  },
+  {
+    "label": "Nippon India Small Cap Fund - Dir - Dividend",
+    "value": 118775
+  },
+  {
+    "label": "Nippon India Small Cap Fund - Dir - Growth",
+    "value": 118778
+  },
+  {
+    "label": "Nippon India Small Cap Fund - Dividend",
+    "value": 113179
+  },
+  {
+    "label": "Nippon India Small Cap Fund - Growth",
+    "value": 113177
+  },
+  {
+    "label": "Nippon India Value Fund - Dir - Dividend",
+    "value": 118782
+  },
+  {
+    "label": "Nippon India Value Fund - Dir - Growth",
+    "value": 118784
+  },
+  {
+    "label": "Nippon India Value Fund - Dividend",
+    "value": 103086
+  },
+  {
+    "label": "Nippon India Value Fund - Growth",
+    "value": 103085
+  },
+  {
+    "label": "Nippon India Vision - Bonus",
+    "value": 100379
+  },
+  {
+    "label": "Nippon India Vision - Dir - Bonus",
+    "value": 118675
+  },
+  {
+    "label": "Nippon India Vision - Dir - Dividend",
+    "value": 118676
+  },
+  {
+    "label": "Nippon India Vision - Dir - Growth",
+    "value": 118678
+  },
+  {
+    "label": "Nippon India Vision - Dividend",
+    "value": 100378
+  },
+  {
+    "label": "Nippon India Vision - Growth",
+    "value": 100380
+  },
+  {
+    "label": "Principal Emerging Bluechip Fund - Dir - Growth",
+    "value": 119441
+  },
+  {
+    "label": "Principal Emerging Bluechip Fund - Growth",
+    "value": 111381
+  },
+  {
+    "label": "Principal Hybrid Equity Fund - Dir - Growth",
+    "value": 119484
+  },
+  {
+    "label": "Principal Hybrid Equity Fund - Growth",
+    "value": 101265
+  },
+  {
+    "label": "Principal Multi Cap Growth Fund - Dir - Growth",
+    "value": 119452
+  },
+  {
+    "label": "Principal Multi Cap Growth Fund - Growth",
+    "value": 100967
+  },
+  {
+    "label": "SBI Arbitrage Opportunities Fund -  Dividend",
+    "value": 104458
+  },
+  {
+    "label": "SBI Arbitrage Opportunities Fund -  Growth",
+    "value": 104457
+  },
+  {
+    "label": "SBI Arbitrage Opportunities Fund - Dir - Dividend",
+    "value": 119567
+  },
+  {
+    "label": "SBI Arbitrage Opportunities Fund - Dir - Growth",
+    "value": 119574
+  },
+  {
+    "label": "SBI Bluechip Fund - Dir - Dividend",
+    "value": 119585
+  },
+  {
+    "label": "SBI Bluechip Fund - Dir - Growth",
+    "value": 119598
+  },
+  {
+    "label": "SBI Bluechip Fund - Dividend",
+    "value": 103616
+  },
+  {
+    "label": "SBI Bluechip Fund - Growth",
+    "value": 103504
+  },
+  {
+    "label": "SBI Contra Fund - Dir - Dividend",
+    "value": 119724
+  },
+  {
+    "label": "SBI Contra Fund - Dir - Growth",
+    "value": 119835
+  },
+  {
+    "label": "SBI Contra Fund - Dividend",
+    "value": 100915
+  },
+  {
+    "label": "SBI Contra Fund - Growth",
+    "value": 102414
+  },
+  {
+    "label": "SBI Debt Hybrid Fund - Dir - Growth",
+    "value": 119839
+  },
+  {
+    "label": "SBI Debt Hybrid Fund - Growth",
+    "value": 100968
+  },
+  {
+    "label": "SBI Dynamic Asset Allocation Fund - Reg - Growth",
+    "value": 134109
+  },
+  {
+    "label": "SBI Equity Hybrid Fund - Dir - Dividend",
+    "value": 119604
+  },
+  {
+    "label": "SBI Equity Hybrid Fund - Dir - Growth",
+    "value": 119609
+  },
+  {
+    "label": "SBI Equity Hybrid Fund - Dividend",
+    "value": 101551
+  },
+  {
+    "label": "SBI Equity Hybrid Fund - Growth",
+    "value": 102885
+  },
+  {
+    "label": "SBI Equity Savings Fund - Reg - Growth",
+    "value": 134644
+  },
+  {
+    "label": "SBI ETF Sensex",
+    "value": 121109
+  },
+  {
+    "label": "SBI Focused Equity Fund - Dir - Dividend",
+    "value": 119834
+  },
+  {
+    "label": "SBI Focused Equity Fund - Dir - Growth",
+    "value": 119727
+  },
+  {
+    "label": "SBI Focused Equity Fund - Dividend",
+    "value": 102765
+  },
+  {
+    "label": "SBI Focused Equity Fund - Growth",
+    "value": 102756
+  },
+  {
+    "label": "SBI Large & Midcap Fund - Dir - Dividend",
+    "value": 119720
+  },
+  {
+    "label": "SBI Large & Midcap Fund - Dir - Growth",
+    "value": 119721
+  },
+  {
+    "label": "SBI Large & Midcap Fund - Dividend",
+    "value": 101530
+  },
+  {
+    "label": "SBI Large & Midcap Fund - Growth",
+    "value": 103024
+  },
+  {
+    "label": "SBI Magnum Equity ESG Fund - Dir - Dividend",
+    "value": 119708
+  },
+  {
+    "label": "SBI Magnum Equity ESG Fund - Dir - Growth",
+    "value": 119709
+  },
+  {
+    "label": "SBI Magnum Equity ESG Fund - Dividend",
+    "value": 101295
+  },
+  {
+    "label": "SBI Magnum Equity ESG Fund - Growth",
+    "value": 104523
+  },
+  {
+    "label": "SBI Magnum Global Fund - Dir - Dividend",
+    "value": 119710
+  },
+  {
+    "label": "SBI Magnum Global Fund - Dir - Growth",
+    "value": 119711
+  },
+  {
+    "label": "SBI Magnum Global Fund - Dividend",
+    "value": 103114
+  },
+  {
+    "label": "SBI Magnum Global Fund - Growth",
+    "value": 103034
+  },
+  {
+    "label": "SBI Magnum Midcap Fund - Dir - Dividend",
+    "value": 119715
+  },
+  {
+    "label": "SBI Magnum Midcap Fund - Dir - Growth",
+    "value": 119716
+  },
+  {
+    "label": "SBI Magnum Midcap Fund - Dividend",
+    "value": 102942
+  },
+  {
+    "label": "SBI Magnum Midcap Fund - Growth",
+    "value": 102941
+  },
+  {
+    "label": "SBI Magnum Multi Cap Fund - Dir - Dividend",
+    "value": 119717
+  },
+  {
+    "label": "SBI Magnum Multi Cap Fund - Dir - Growth",
+    "value": 119718
+  },
+  {
+    "label": "SBI Magnum Multi Cap Fund - Dividend",
+    "value": 103216
+  },
+  {
+    "label": "SBI Magnum Multi Cap Fund - Growth",
+    "value": 103215
+  },
+  {
+    "label": "SBI Nifty Index Fund - Dir - Dividend",
+    "value": 119826
+  },
+  {
+    "label": "SBI Nifty Index Fund - Dir - Growth",
+    "value": 119827
+  },
+  {
+    "label": "SBI Nifty Index Fund - Dividend",
+    "value": 102273
+  },
+  {
+    "label": "SBI Nifty Index Fund - Growth",
+    "value": 102272
+  },
+  {
+    "label": "SBI Small Cap Fund - Dir - Dividend",
+    "value": 125496
+  },
+  {
+    "label": "SBI Small Cap Fund - Dir - Growth",
+    "value": 125497
+  },
+  {
+    "label": "SBI Small Cap Fund - Dividend",
+    "value": 125495
+  },
+  {
+    "label": "SBI Small Cap Fund - Growth",
+    "value": 125494
+  },
+  {
+    "label": "Sundaram Equity Fund - Dir ? Dividend",
+    "value": 147589
+  },
+  {
+    "label": "Sundaram Equity Fund - Dir ? Growth",
+    "value": 147587
+  },
+  {
+    "label": "Sundaram Equity Fund - Reg ? Dividend",
+    "value": 147585
+  },
+  {
+    "label": "Sundaram Equity Fund - Reg ? Growth",
+    "value": 147584
+  },
+  {
+    "label": "Sundaram Equity Hybrid Fund  - Dir - Dividend",
+    "value": 119545
+  },
+  {
+    "label": "Sundaram Equity Hybrid Fund - Dir - Growth",
+    "value": 119542
+  },
+  {
+    "label": "Sundaram Equity Hybrid Fund - Reg - Dividend",
+    "value": 101472
+  },
+  {
+    "label": "Sundaram Equity Hybrid Fund - Reg - Growth",
+    "value": 100617
+  },
+  {
+    "label": "Sundaram Large and Mid Cap Fund  - Dir - Dividend",
+    "value": 119565
+  },
+  {
+    "label": "Sundaram Large and Mid Cap Fund  - Dir - Growth",
+    "value": 119566
+  },
+  {
+    "label": "Sundaram Large and Mid Cap Fund - Reg - Dividend",
+    "value": 105000
+  },
+  {
+    "label": "Sundaram Large and Mid Cap Fund - Reg - Growth",
+    "value": 105001
+  },
+  {
+    "label": "Sundaram Mid Cap Fund  - Dir - Dividend",
+    "value": 119582
+  },
+  {
+    "label": "Sundaram Mid Cap Fund  - Dir - Growth",
+    "value": 119581
+  },
+  {
+    "label": "Sundaram Mid Cap Fund - Reg - Dividend",
+    "value": 101538
+  },
+  {
+    "label": "Sundaram Mid Cap Fund - Reg - Growth",
+    "value": 101539
+  },
+  {
+    "label": "Sundaram Rural and Consumption Fund  - Dir - Dividend",
+    "value": 119594
+  },
+  {
+    "label": "Sundaram Rural and Consumption Fund  - Dir - Growth",
+    "value": 119595
+  },
+  {
+    "label": "Sundaram Rural and Consumption Fund - Reg - Dividend",
+    "value": 103743
+  },
+  {
+    "label": "Sundaram Rural and Consumption Fund - Reg - Growth",
+    "value": 102142
+  },
+  {
+    "label": "Sundaram Select Focus  - Dir - Dividend",
+    "value": 119577
+  },
+  {
+    "label": "Sundaram Select Focus  - Dir - Growth",
+    "value": 119578
+  },
+  {
+    "label": "Sundaram Select Focus - Reg - Dividend",
+    "value": 101536
+  },
+  {
+    "label": "Sundaram Select Focus - Reg - Growth",
+    "value": 101537
+  },
+  {
+    "label": "Sundaram Small Cap Fund  - Dir - Dividend",
+    "value": 119588
+  },
+  {
+    "label": "Sundaram Small Cap Fund  - Dir - Growth",
+    "value": 119589
+  },
+  {
+    "label": "Sundaram Small Cap Fund - Reg - Dividend",
+    "value": 100794
+  },
+  {
+    "label": "Sundaram Small Cap Fund - Reg - Growth",
+    "value": 100795
+  },
+  {
+    "label": "Tata Balanced Advantage Fund - Dir ? Dividend",
+    "value": 146008
+  },
+  {
+    "label": "Tata Balanced Advantage Fund - Dir ? Growth",
+    "value": 146010
+  },
+  {
+    "label": "Tata Balanced Advantage Fund - Reg ? Dividend",
+    "value": 146009
+  },
+  {
+    "label": "Tata Balanced Advantage Fund ? Reg ? Growth",
+    "value": 146007
+  },
+  {
+    "label": "Tata Equity P/E Fund - Dir - Dividend (Trigger Option A 5%)",
+    "value": 119232
+  },
+  {
+    "label": "Tata Equity P/E Fund - Dir - Dividend (Trigger Option B 10%)",
+    "value": 119233
+  },
+  {
+    "label": "Tata Equity P/E Fund - Dir - Growth",
+    "value": 119231
+  },
+  {
+    "label": "Tata Equity P/E Fund - Reg - Dividend (Trigger Option A 5%)",
+    "value": 112218
+  },
+  {
+    "label": "Tata Equity P/E Fund - Reg - Dividend (Trigger Option B 10%)",
+    "value": 102428
+  },
+  {
+    "label": "Tata Equity P/E Fund - Reg - Growth",
+    "value": 101672
+  },
+  {
+    "label": "Tata Ethical Fund - Reg - Growth",
+    "value": 100415
+  },
+  {
+    "label": "Tata Focused Equity Fund ? Reg ? Growth",
+    "value": 147760
+  },
+  {
+    "label": "Tata Hybrid Equity Fund - Dir - Dividend",
+    "value": 119058
+  },
+  {
+    "label": "Tata Hybrid Equity Fund - Dir - Growth",
+    "value": 119053
+  },
+  {
+    "label": "Tata Hybrid Equity Fund - Reg - Dividend",
+    "value": 101222
+  },
+  {
+    "label": "Tata Hybrid Equity Fund - Reg - Growth",
+    "value": 100414
+  },
+  {
+    "label": "Tata Large & Mid Cap Fund - Dir - Dividend",
+    "value": 119201
+  },
+  {
+    "label": "Tata Large & Mid Cap Fund - Dir - Growth",
+    "value": 119202
+  },
+  {
+    "label": "Tata Large & Mid Cap Fund - Reg - Dividend",
+    "value": 101823
+  },
+  {
+    "label": "Tata Large & Mid Cap Fund - Reg - Growth",
+    "value": 101824
+  },
+  {
+    "label": "Tata Large Cap Fund - Dir - Dividend",
+    "value": 119159
+  },
+  {
+    "label": "Tata Large Cap Fund - Dir - Growth",
+    "value": 119160
+  },
+  {
+    "label": "Tata Large Cap Fund - Reg - Dividend",
+    "value": 102036
+  },
+  {
+    "label": "Tata Large Cap Fund - Reg - Growth",
+    "value": 100475
+  },
+  {
+    "label": "Tata Mid Cap Growth Fund - Dir - Dividend",
+    "value": 119177
+  },
+  {
+    "label": "Tata Mid Cap Growth Fund - Dir - Growth",
+    "value": 119178
+  },
+  {
+    "label": "Tata Mid Cap Growth Fund - Reg - Dividend",
+    "value": 102326
+  },
+  {
+    "label": "Tata Mid Cap Growth Fund - Reg - Growth",
+    "value": 102328
+  },
+  {
+    "label": "Tata Multicap Fund ? Reg ? Growth",
+    "value": 144548
+  },
+  {
+    "label": "Tata Small Cap Fund - Dir - Dividend",
+    "value": 145209
+  },
+  {
+    "label": "Tata Small Cap Fund - Dir ? Growth",
+    "value": 145206
+  },
+  {
+    "label": "Tata Small Cap Fund - Reg - Dividend",
+    "value": 145210
+  },
+  {
+    "label": "Tata Small Cap Fund - Reg - Growth",
+    "value": 145208
+  },
+  {
+    "label": "UTI - Multi Asset Fund - Dir - Dividend",
+    "value": 120761
+  },
+  {
+    "label": "UTI - Multi Asset Fund - Dir - Growth",
+    "value": 120760
+  },
+  {
+    "label": "UTI - Multi Asset Fund - Dividend",
+    "value": 111602
+  },
+  {
+    "label": "UTI - Multi Asset Fund - Growth",
+    "value": 111599
+  },
+  {
+    "label": "UTI - Value Opportunities Fund - Dir - Dividend",
+    "value": 120752
+  },
+  {
+    "label": "UTI - Value Opportunities Fund - Dir - Growth",
+    "value": 120751
+  },
+  {
+    "label": "UTI - Value Opportunities Fund - Dividend",
+    "value": 103097
+  },
+  {
+    "label": "UTI - Value Opportunities Fund - Growth",
+    "value": 103098
+  },
+  {
+    "label": "UTI Arbitrage Fund - Dir - Dividend",
+    "value": 120796
+  },
+  {
+    "label": "UTI Arbitrage Fund - Dir - Growth",
+    "value": 120795
+  },
+  {
+    "label": "UTI Arbitrage Fund - Dividend",
+    "value": 104074
+  },
+  {
+    "label": "UTI Arbitrage Fund - Growth",
+    "value": 104075
+  },
+  {
+    "label": "UTI CCF- Savings Plan",
+    "value": 100678
+  },
+  {
+    "label": "UTI CCF- Savings Plan -Dir",
+    "value": 120771
+  },
+  {
+    "label": "UTI Core Equity Fund - Dir - Dividend",
+    "value": 120664
+  },
+  {
+    "label": "UTI Core Equity Fund - Dir - Growth",
+    "value": 120665
+  },
+  {
+    "label": "UTI Core Equity Fund - Dividend",
+    "value": 100663
+  },
+  {
+    "label": "UTI Core Equity Fund - Growth",
+    "value": 100664
+  },
+  {
+    "label": "UTI Dividend Yield Fund - Dir - Dividend",
+    "value": 120750
+  },
+  {
+    "label": "UTI Dividend Yield Fund - Dir - Growth",
+    "value": 120749
+  },
+  {
+    "label": "UTI Dividend Yield Fund - Dividend",
+    "value": 103025
+  },
+  {
+    "label": "UTI Dividend Yield Fund - Growth",
+    "value": 103026
+  },
+  {
+    "label": "UTI Equity Fund - Dir - Dividend",
+    "value": 120663
+  },
+  {
+    "label": "UTI Equity Fund - Dir - Growth",
+    "value": 120662
+  },
+  {
+    "label": "UTI Equity Fund - Dividend",
+    "value": 100668
+  },
+  {
+    "label": "UTI Equity Fund - Growth",
+    "value": 100669
+  },
+  {
+    "label": "UTI Hybrid Equity Fund - Dir - Dividend",
+    "value": 120673
+  },
+  {
+    "label": "UTI Hybrid Equity Fund - Dir - Growth",
+    "value": 120674
+  },
+  {
+    "label": "UTI Hybrid Equity Fund - Dividend",
+    "value": 100685
+  },
+  {
+    "label": "UTI Hybrid Equity Fund - Growth",
+    "value": 100684
+  },
+  {
+    "label": "UTI Mastershare - Dir - Dividend",
+    "value": 120657
+  },
+  {
+    "label": "UTI Mastershare - Dir - Growth",
+    "value": 120656
+  },
+  {
+    "label": "UTI Mastershare - Dividend",
+    "value": 100650
+  },
+  {
+    "label": "UTI Mastershare - Growth",
+    "value": 100651
+  },
+  {
+    "label": "UTI Mid Cap Fund - Dir - Dividend",
+    "value": 120727
+  },
+  {
+    "label": "UTI Mid Cap Fund - Dir - Growth",
+    "value": 120726
+  },
+  {
+    "label": "UTI Mid Cap Fund - Dividend",
+    "value": 102393
+  },
+  {
+    "label": "UTI Mid Cap Fund - Growth",
+    "value": 102394
+  },
+  {
+    "label": "UTI Nifty Index Fund - Dir - Dividend",
+    "value": 120717
+  },
+  {
+    "label": "UTI Nifty Index Fund - Dir - Growth",
+    "value": 120716
+  },
+  {
+    "label": "UTI Nifty Index Fund - Dividend",
+    "value": 100823
+  },
+  {
+    "label": "UTI Nifty Index Fund - Growth",
+    "value": 100822
+  },
+  {
+    "label": "UTI Regular Savings Fund -  Growth",
+    "value": 102535
+  },
+  {
+    "label": "UTI Regular Savings Fund - Dir -  Growth",
+    "value": 120779
+  },
+  {
+    "label": "UTI Regular Savings Fund - Dir - Flexi Dividend",
+    "value": 120789
+  },
+  {
+    "label": "UTI-MEPUS",
+    "value": 101834
+  },
+  {
+    "label": "Aditya Birla Sun Life Banking & PSU Debt Fund - Dir - Dividend",
+    "value": 119551
+  },
+  {
+    "label": "Aditya Birla Sun Life Banking & PSU Debt Fund - Dir - Growth",
+    "value": 119550
+  },
+  {
+    "label": "Aditya Birla Sun Life Banking & PSU Debt Fund - Reg - Dividend",
+    "value": 108272
+  },
+  {
+    "label": "Aditya Birla Sun Life Banking & PSU Debt Fund - Reg - Growth",
+    "value": 108273
+  },
+  {
+    "label": "Aditya Birla Sun Life Banking & PSU Debt Fund - Ret - Growth",
+    "value": 103176
+  },
+  {
+    "label": "Aditya Birla Sun Life Corporate Bond Fund - Dir - Dividend",
+    "value": 124832
+  },
+  {
+    "label": "Aditya Birla Sun Life Corporate Bond Fund - Dir - Growth",
+    "value": 119533
+  },
+  {
+    "label": "Aditya Birla Sun Life Corporate Bond Fund - Reg - Dividend",
+    "value": 124833
+  },
+  {
+    "label": "Aditya Birla Sun Life Corporate Bond Fund - Reg - Growth",
+    "value": 103178
+  },
+  {
+    "label": "Aditya Birla Sun Life Floating Rate Fund - Dir - Growth",
+    "value": 122646
+  },
+  {
+    "label": "Aditya Birla Sun Life Floating Rate Fund - Reg - Growth",
+    "value": 122644
+  },
+  {
+    "label": "Aditya Birla Sun Life Floating Rate Fund - Ret - Growth",
+    "value": 122650
+  },
+  {
+    "label": "Aditya Birla Sun Life Income Fund - DAP",
+    "value": 111777
+  },
+  {
+    "label": "Aditya Birla Sun Life Income Fund - Dir - Dividend",
+    "value": 133446
+  },
+  {
+    "label": "Aditya Birla Sun Life Income Fund - Dir - Growth",
+    "value": 119657
+  },
+  {
+    "label": "Aditya Birla Sun Life Income Fund - Reg - Dividend",
+    "value": 133445
+  },
+  {
+    "label": "Aditya Birla Sun Life Income Fund - Reg - Growth",
+    "value": 100038
+  },
+  {
+    "label": "Aditya Birla Sun Life Liquid Fund - Dir - Dividend",
+    "value": 119571
+  },
+  {
+    "label": "Aditya Birla Sun Life Liquid Fund - Dir - Growth",
+    "value": 119568
+  },
+  {
+    "label": "Aditya Birla Sun Life Liquid Fund - I P - Growth",
+    "value": 100043
+  },
+  {
+    "label": "Aditya Birla Sun Life Liquid Fund - Reg - Dividend",
+    "value": 103885
+  },
+  {
+    "label": "Aditya Birla Sun Life Liquid Fund - Reg - Growth",
+    "value": 100047
+  },
+  {
+    "label": "Aditya Birla Sun Life Liquid Fund - Retail - DAP",
+    "value": 112014
+  },
+  {
+    "label": "Aditya Birla Sun Life Liquid Fund - Retail - Growth",
+    "value": 100042
+  },
+  {
+    "label": "Aditya Birla Sun Life Low Duration Fund - Dir - Growth",
+    "value": 119523
+  },
+  {
+    "label": "Aditya Birla Sun Life Low Duration Fund - I P - Growth",
+    "value": 103195
+  },
+  {
+    "label": "Aditya Birla Sun Life Low Duration Fund - Reg - Growth",
+    "value": 103192
+  },
+  {
+    "label": "Aditya Birla Sun Life Money Manager Fund - Dir - Growth",
+    "value": 119511
+  },
+  {
+    "label": "Aditya Birla Sun Life Money Manager Fund - Reg - Growth",
+    "value": 101976
+  },
+  {
+    "label": "Aditya Birla Sun Life Money Manager Fund - Ret - Growth",
+    "value": 101971
+  },
+  {
+    "label": "Aditya Birla Sun Life Savings Fund - Dir - Growth",
+    "value": 119501
+  },
+  {
+    "label": "Aditya Birla Sun Life Savings Fund - Reg - Growth",
+    "value": 101317
+  },
+  {
+    "label": "Aditya Birla Sun Life Savings Fund - Ret - DAP",
+    "value": 112016
+  },
+  {
+    "label": "Aditya Birla Sun Life Savings Fund - Ret - Growth",
+    "value": 101316
+  },
+  {
+    "label": "Aditya Birla Sun Life Short Term Opportunities Fund - Dir - Dividend",
+    "value": 119496
+  },
+  {
+    "label": "Aditya Birla Sun Life Short Term Opportunities Fund - Dir - Growth",
+    "value": 119498
+  },
+  {
+    "label": "Aditya Birla Sun Life Short Term Opportunities Fund - Reg - Dividend",
+    "value": 101843
+  },
+  {
+    "label": "Aditya Birla Sun Life Short Term Opportunities Fund - Reg - Growth",
+    "value": 101844
+  },
+  {
+    "label": "Axis Banking & PSU Debt Fund - Dir - Growth",
+    "value": 120438
+  },
+  {
+    "label": "Axis Banking & PSU Debt Fund - Growth",
+    "value": 117446
+  },
+  {
+    "label": "Axis Liquid Fund - Dir - Growth",
+    "value": 120389
+  },
+  {
+    "label": "Axis Liquid Fund - Growth",
+    "value": 112210
+  },
+  {
+    "label": "Axis Liquid Fund - Ret - Growth",
+    "value": 112713
+  },
+  {
+    "label": "Axis Short Term Fund - Dir - Dividend",
+    "value": 133894
+  },
+  {
+    "label": "Axis Short Term Fund - Dir - Growth",
+    "value": 120510
+  },
+  {
+    "label": "Axis Short Term Fund - Growth",
+    "value": 112354
+  },
+  {
+    "label": "Axis Short Term Fund - Reg - Dividend",
+    "value": 133895
+  },
+  {
+    "label": "Axis Short Term Fund - Ret - Growth",
+    "value": 112721
+  },
+  {
+    "label": "Axis Strategic Bond Fund - Dir - Growth",
+    "value": 120475
+  },
+  {
+    "label": "Axis Strategic Bond Fund - Growth",
+    "value": 116894
+  },
+  {
+    "label": "Axis Treasury Advantage Fund - Dir - Growth",
+    "value": 120513
+  },
+  {
+    "label": "Axis Treasury Advantage Fund - Growth",
+    "value": 112214
+  },
+  {
+    "label": "Axis Treasury Advantage Fund - Ret - Growth",
+    "value": 112717
+  },
+  {
+    "label": "Axis Ultra Short Term Fund - Dir - Dividend",
+    "value": 144756
+  },
+  {
+    "label": "Axis Ultra Short Term Fund - Dir - Growth",
+    "value": 144754
+  },
+  {
+    "label": "Axis Ultra Short Term Fund - Reg - Dividend",
+    "value": 144761
+  },
+  {
+    "label": "Axis Ultra Short Term Fund - Reg - Growth",
+    "value": 144759
+  },
+  {
+    "label": "Baroda Liquid Fund - Plan A - Growth",
+    "value": 111704
+  },
+  {
+    "label": "Baroda Liquid Fund - Plan B - Dir - Growth",
+    "value": 119415
+  },
+  {
+    "label": "Baroda Liquid Fund - Reg - Dividend",
+    "value": 101407
+  },
+  {
+    "label": "Baroda Liquid Fund - Reg - Growth",
+    "value": 101408
+  },
+  {
+    "label": "Canara Robeco Liquid - Dir - Dividend",
+    "value": 118304
+  },
+  {
+    "label": "Canara Robeco Liquid - Dir - Growth",
+    "value": 118305
+  },
+  {
+    "label": "Canara Robeco Liquid - Reg - Growth",
+    "value": 109353
+  },
+  {
+    "label": "Canara Robeco Savings Fund - Dir - Dividend",
+    "value": 118292
+  },
+  {
+    "label": "Canara Robeco Savings Fund - Dir - Growth",
+    "value": 118291
+  },
+  {
+    "label": "Canara Robeco Savings Fund - Reg - Dividend",
+    "value": 102914
+  },
+  {
+    "label": "Canara Robeco Savings Fund - Reg - Growth",
+    "value": 102913
+  },
+  {
+    "label": "Canara Robeco Short Duration Fund - Dir - Growth",
+    "value": 118320
+  },
+  {
+    "label": "Canara Robeco Short Duration Fund - Growth",
+    "value": 115077
+  },
+  {
+    "label": "DSP Banking & PSU Debt Fund - Dir - Dividend",
+    "value": 124178
+  },
+  {
+    "label": "DSP Banking & PSU Debt Fund - Dir - Growth",
+    "value": 124175
+  },
+  {
+    "label": "DSP Banking & PSU Debt Fund - Reg - Dividend",
+    "value": 124174
+  },
+  {
+    "label": "DSP Banking & PSU Debt Fund - Reg - Growth",
+    "value": 124172
+  },
+  {
+    "label": "DSP Corporate Bond Fund - Dir - Dividend",
+    "value": 144647
+  },
+  {
+    "label": "DSP Corporate Bond Fund - Dir - Growth",
+    "value": 144646
+  },
+  {
+    "label": "DSP Corporate Bond Fund - Reg - Dividend",
+    "value": 144650
+  },
+  {
+    "label": "DSP Corporate Bond Fund - Reg - Growth",
+    "value": 144644
+  },
+  {
+    "label": "DSP Government Securities Fund - Dir - Dividend",
+    "value": 119101
+  },
+  {
+    "label": "DSP Government Securities Fund - Dir - Growth",
+    "value": 119099
+  },
+  {
+    "label": "DSP Government Securities Fund - Dividend",
+    "value": 100085
+  },
+  {
+    "label": "DSP Government Securities Fund - Growth",
+    "value": 100084
+  },
+  {
+    "label": "DSP Liquidity Fund - Dir - Growth",
+    "value": 119125
+  },
+  {
+    "label": "DSP Liquidity Fund - Reg - Growth",
+    "value": 103347
+  },
+  {
+    "label": "DSP Low Duration Fund - Dir - Growth",
+    "value": 133925
+  },
+  {
+    "label": "DSP Low Duration Fund - Reg - Growth",
+    "value": 133926
+  },
+  {
+    "label": "DSP Overnight Fund - Dir ? Growth",
+    "value": 146062
+  },
+  {
+    "label": "DSP Overnight Fund - Reg ? Growth",
+    "value": 146061
+  },
+  {
+    "label": "DSP Savings Fund - Dir - Dividend",
+    "value": 119108
+  },
+  {
+    "label": "DSP Savings Fund - Dir - Growth",
+    "value": 119106
+  },
+  {
+    "label": "DSP Savings Fund - Dividend",
+    "value": 100088
+  },
+  {
+    "label": "DSP Savings Fund - Growth",
+    "value": 100087
+  },
+  {
+    "label": "DSP Short Term Fund - Dir - Dividend",
+    "value": 119222
+  },
+  {
+    "label": "DSP Short Term Fund - Dir - Growth",
+    "value": 119226
+  },
+  {
+    "label": "DSP Short Term Fund - Dividend",
+    "value": 101305
+  },
+  {
+    "label": "DSP Short Term Fund - Growth",
+    "value": 101304
+  },
+  {
+    "label": "DSP Strategic Bond Fund - Dir - Dividend",
+    "value": 119238
+  },
+  {
+    "label": "DSP Strategic Bond Fund - Dir - Growth",
+    "value": 119239
+  },
+  {
+    "label": "DSP Strategic Bond Fund - Reg - Dividend",
+    "value": 105668
+  },
+  {
+    "label": "DSP Strategic Bond Fund - Reg - Growth",
+    "value": 105669
+  },
+  {
+    "label": "DSP Ultra Short Fund - Dir - Dividend",
+    "value": 119206
+  },
+  {
+    "label": "DSP Ultra Short Fund - Dir - Growth",
+    "value": 119205
+  },
+  {
+    "label": "DSP Ultra Short Fund - Reg - Dividend",
+    "value": 117995
+  },
+  {
+    "label": "DSP Ultra Short Fund - Reg - Growth",
+    "value": 104138
+  },
+  {
+    "label": "HDFC Banking and PSU Debt Fund - Dir - Dividend",
+    "value": 128626
+  },
+  {
+    "label": "HDFC Banking and PSU Debt Fund - Dir - Growth",
+    "value": 128629
+  },
+  {
+    "label": "HDFC Banking and PSU Debt Fund - Reg - Dividend",
+    "value": 128627
+  },
+  {
+    "label": "HDFC Banking and PSU Debt Fund - Reg - Growth",
+    "value": 128628
+  },
+  {
+    "label": "HDFC Corporate Bond Fund - Dir - Dividend",
+    "value": 132849
+  },
+  {
+    "label": "HDFC Corporate Bond Fund - Dir - Growth",
+    "value": 118987
+  },
+  {
+    "label": "HDFC Corporate Bond Fund - Growth",
+    "value": 113070
+  },
+  {
+    "label": "HDFC Corporate Bond Fund - Reg - Dividend",
+    "value": 132848
+  },
+  {
+    "label": "HDFC Floating Rate Debt Fund - WP - Dir - Growth",
+    "value": 118961
+  },
+  {
+    "label": "HDFC Floating Rate Debt Fund - WP - Growth",
+    "value": 106841
+  },
+  {
+    "label": "HDFC Gilt Fund - Dir - Dividend",
+    "value": 119115
+  },
+  {
+    "label": "HDFC Gilt Fund - Dir - Growth",
+    "value": 119116
+  },
+  {
+    "label": "HDFC Gilt Fund - Dividend",
+    "value": 101084
+  },
+  {
+    "label": "HDFC Gilt Fund - Growth",
+    "value": 101083
+  },
+  {
+    "label": "HDFC Income Fund - Dir - Dividend",
+    "value": 133365
+  },
+  {
+    "label": "HDFC Income Fund - Dir - Growth",
+    "value": 119069
+  },
+  {
+    "label": "HDFC Income Fund - Growth",
+    "value": 100124
+  },
+  {
+    "label": "HDFC Income Fund - Reg - Dividend",
+    "value": 133366
+  },
+  {
+    "label": "HDFC Liquid Fund - Dir - Growth",
+    "value": 119091
+  },
+  {
+    "label": "HDFC Liquid Fund - Growth",
+    "value": 100868
+  },
+  {
+    "label": "HDFC Low Duration Fund - Dir - Growth",
+    "value": 118942
+  },
+  {
+    "label": "HDFC Low Duration Fund - Ret - Growth",
+    "value": 102452
+  },
+  {
+    "label": "HDFC Medium Term Debt Fund - Dir - Dividend",
+    "value": 132853
+  },
+  {
+    "label": "HDFC Medium Term Debt Fund - Dir - Growth",
+    "value": 119081
+  },
+  {
+    "label": "HDFC Medium Term Debt Fund - Growth",
+    "value": 101989
+  },
+  {
+    "label": "HDFC Medium Term Debt Fund - Reg - Dividend",
+    "value": 132852
+  },
+  {
+    "label": "HDFC Money Market Fund - Dir - Growth",
+    "value": 119092
+  },
+  {
+    "label": "HDFC Money Market Fund - Growth",
+    "value": 101993
+  },
+  {
+    "label": "HDFC Overnight Fund - Dir - Growth",
+    "value": 119110
+  },
+  {
+    "label": "HDFC Overnight Fund - Growth",
+    "value": 101996
+  },
+  {
+    "label": "HDFC Short Term Debt Fund - Dir - Dividend",
+    "value": 133367
+  },
+  {
+    "label": "HDFC Short Term Debt Fund - Dir - Growth",
+    "value": 119016
+  },
+  {
+    "label": "HDFC Short Term Debt Fund - Growth",
+    "value": 113047
+  },
+  {
+    "label": "HDFC Short Term Debt Fund - Reg - Dividend",
+    "value": 133368
+  },
+  {
+    "label": "HDFC Ultra Short Term Fund - Dir - Growth",
+    "value": 145034
+  },
+  {
+    "label": "HDFC Ultra Short Term Fund - Reg - Dly Dividend",
+    "value": 145041
+  },
+  {
+    "label": "HDFC Ultra Short Term Fund - Reg - Growth",
+    "value": 145040
+  },
+  {
+    "label": "HSBC Cash Fund - Dir - Growth",
+    "value": 120038
+  },
+  {
+    "label": "HSBC Cash Fund - Growth",
+    "value": 118902
+  },
+  {
+    "label": "HSBC Cash Fund - Reg - Growth",
+    "value": 118907
+  },
+  {
+    "label": "ICICI Prudential All Seasons Bond Fund - Dir -  Dividend",
+    "value": 120600
+  },
+  {
+    "label": "ICICI Prudential All Seasons Bond Fund - Dir - Growth",
+    "value": 120603
+  },
+  {
+    "label": "ICICI Prudential All Seasons Bond Fund - Dividend",
+    "value": 112097
+  },
+  {
+    "label": "ICICI Prudential All Seasons Bond Fund - Growth",
+    "value": 112096
+  },
+  {
+    "label": "ICICI Prudential Banking & PSU Debt Fund - Dir - Growth",
+    "value": 120256
+  },
+  {
+    "label": "ICICI Prudential Banking & PSU Debt Fund - Reg - Growth",
+    "value": 112342
+  },
+  {
+    "label": "ICICI Prudential Bond Fund - Dir - Growth",
+    "value": 120619
+  },
+  {
+    "label": "ICICI Prudential Bond Fund - Dividend",
+    "value": 109741
+  },
+  {
+    "label": "ICICI Prudential Bond Fund - Growth",
+    "value": 109740
+  },
+  {
+    "label": "ICICI Prudential Constant Maturity Gilt Fund - Dir - Growth",
+    "value": 131061
+  },
+  {
+    "label": "ICICI Prudential Constant Maturity Gilt Fund - Reg - Growth",
+    "value": 131051
+  },
+  {
+    "label": "ICICI Prudential Corporate Bond Fund - Dir -  Growth",
+    "value": 120692
+  },
+  {
+    "label": "ICICI Prudential Corporate Bond Fund - Reg - Growth",
+    "value": 111987
+  },
+  {
+    "label": "ICICI Prudential Floating Interest Fund - Dir -  Growth",
+    "value": 120425
+  },
+  {
+    "label": "ICICI Prudential Floating Interest Fund - Dir - Dividend",
+    "value": 120427
+  },
+  {
+    "label": "ICICI Prudential Floating Interest Fund - Dividend",
+    "value": 101803
+  },
+  {
+    "label": "ICICI Prudential Floating Interest Fund - Growth",
+    "value": 101802
+  },
+  {
+    "label": "ICICI Prudential Gilt Fund - Dir - Dividend",
+    "value": 120589
+  },
+  {
+    "label": "ICICI Prudential Gilt Fund - Dir - Growth",
+    "value": 120590
+  },
+  {
+    "label": "ICICI Prudential Gilt Fund - Dividend",
+    "value": 100368
+  },
+  {
+    "label": "ICICI Prudential Gilt Fund - Growth",
+    "value": 100369
+  },
+  {
+    "label": "ICICI Prudential Liquid Fund - Reg - Growth",
+    "value": 103340
+  },
+  {
+    "label": "ICICI Prudential Liquid Fund -Dir- Growth",
+    "value": 120197
+  },
+  {
+    "label": "ICICI Prudential Long Term Bond Fund - Dir - Growth",
+    "value": 120743
+  },
+  {
+    "label": "ICICI Prudential Long Term Bond Fund - Dividend",
+    "value": 100364
+  },
+  {
+    "label": "ICICI Prudential Long Term Bond Fund - Growth",
+    "value": 100365
+  },
+  {
+    "label": "ICICI Prudential Medium Term Bond Fund - Dir - Growth",
+    "value": 120670
+  },
+  {
+    "label": "ICICI Prudential Medium Term Bond Fund - Growth",
+    "value": 102741
+  },
+  {
+    "label": "ICICI Prudential Medium Term Bond Fund - Qtly Dividend",
+    "value": 113137
+  },
+  {
+    "label": "ICICI Prudential Money Market Fund - Dir- Growth",
+    "value": 120211
+  },
+  {
+    "label": "ICICI Prudential Money Market Fund - Reg - Growth",
+    "value": 103633
+  },
+  {
+    "label": "ICICI Prudential Savings Fund - Dir -  Growth",
+    "value": 120398
+  },
+  {
+    "label": "ICICI Prudential Savings Fund - Reg - Growth",
+    "value": 101619
+  },
+  {
+    "label": "ICICI Prudential Short Term Fund - Dir - Dividend",
+    "value": 120755
+  },
+  {
+    "label": "ICICI Prudential Short Term Fund - Dir - Growth",
+    "value": 120754
+  },
+  {
+    "label": "ICICI Prudential Short Term Fund - Dividend",
+    "value": 101165
+  },
+  {
+    "label": "ICICI Prudential Short Term Fund - Growth",
+    "value": 101758
+  },
+  {
+    "label": "ICICI Prudential Ultra Short Term Fund - Dir - Growth",
+    "value": 120676
+  },
+  {
+    "label": "ICICI Prudential Ultra Short Term Fund - Growth",
+    "value": 115092
+  },
+  {
+    "label": "IDFC Banking & PSU Debt Fund - Dir - Dividend",
+    "value": 121281
+  },
+  {
+    "label": "IDFC Banking & PSU Debt Fund - Dir - Growth",
+    "value": 121279
+  },
+  {
+    "label": "IDFC Banking & PSU Debt Fund - Reg - Dividend",
+    "value": 121282
+  },
+  {
+    "label": "IDFC Banking & PSU Debt Fund - Reg - Growth",
+    "value": 121280
+  },
+  {
+    "label": "IDFC Bond Fund - Income Plan - Dir - Growth",
+    "value": 118394
+  },
+  {
+    "label": "IDFC Bond Fund - Income Plan - Reg - Growth",
+    "value": 108765
+  },
+  {
+    "label": "IDFC Bond Fund - Medium Term Plan - Dir - Growth",
+    "value": 118401
+  },
+  {
+    "label": "IDFC Bond Fund - Medium Term Plan - Reg - Growth",
+    "value": 108728
+  },
+  {
+    "label": "IDFC Bond Fund - Short Term Plan - Dir -Growth",
+    "value": 118407
+  },
+  {
+    "label": "IDFC Bond Fund - Short Term Plan - Reg - Growth",
+    "value": 108768
+  },
+  {
+    "label": "IDFC Cash Fund - Dir - Dividend",
+    "value": 118363
+  },
+  {
+    "label": "IDFC Cash Fund - Dir - Growth",
+    "value": 118364
+  },
+  {
+    "label": "IDFC Cash Fund - Reg - Dividend",
+    "value": 115489
+  },
+  {
+    "label": "IDFC Cash Fund - Reg - Growth",
+    "value": 108690
+  },
+  {
+    "label": "IDFC Corporate Bond Fund - Dir - Growth",
+    "value": 135916
+  },
+  {
+    "label": "IDFC Corporate Bond Fund - Reg - Growth",
+    "value": 135914
+  },
+  {
+    "label": "IDFC D B F - Dir - Dividend",
+    "value": 118417
+  },
+  {
+    "label": "IDFC D B F - Dir - Growth",
+    "value": 118416
+  },
+  {
+    "label": "IDFC D B F - Reg - Dividend",
+    "value": 111523
+  },
+  {
+    "label": "IDFC D B F - Reg - Growth (Re-Launched)",
+    "value": 111524
+  },
+  {
+    "label": "IDFC Low Duration Fund - Dir - Dividend",
+    "value": 118370
+  },
+  {
+    "label": "IDFC Low Duration Fund - Dir - Growth",
+    "value": 118371
+  },
+  {
+    "label": "IDFC Low Duration Fund - Reg - Dividend",
+    "value": 116020
+  },
+  {
+    "label": "IDFC Low Duration Fund - Reg - Growth",
+    "value": 108632
+  },
+  {
+    "label": "IDFC Money Manager Fund - Dir - Growth",
+    "value": 118384
+  },
+  {
+    "label": "IDFC Money Manager Fund - Reg - Growth",
+    "value": 108756
+  },
+  {
+    "label": "IDFC Ultra Short Term Fund - Dir - Growth",
+    "value": 144173
+  },
+  {
+    "label": "IDFC Ultra Short Term Fund - Reg - Growth",
+    "value": 144171
+  },
+  {
+    "label": "Invesco India Corporate Bond Fund - Dir - Dividend",
+    "value": 120499
+  },
+  {
+    "label": "Invesco India Corporate Bond Fund - Dir - Growth",
+    "value": 120497
+  },
+  {
+    "label": "Invesco India Corporate Bond Fund - Growth",
+    "value": 106177
+  },
+  {
+    "label": "Invesco India Liquid Fund - Bonus",
+    "value": 122786
+  },
+  {
+    "label": "Invesco India Liquid Fund - Dir - Growth",
+    "value": 120537
+  },
+  {
+    "label": "Invesco India Liquid Fund - Growth",
+    "value": 104486
+  },
+  {
+    "label": "Invesco India Liquid Fund - Reg - Growth",
+    "value": 104488
+  },
+  {
+    "label": "Invesco India Money Market Fund - Dir - Dividend",
+    "value": 120508
+  },
+  {
+    "label": "Invesco India Money Market Fund - Dir - Growth",
+    "value": 120507
+  },
+  {
+    "label": "Invesco India Money Market Fund - Dividend",
+    "value": 116653
+  },
+  {
+    "label": "Invesco India Money Market Fund - Growth",
+    "value": 112123
+  },
+  {
+    "label": "Invesco India Money Market Fund - Reg - Growth",
+    "value": 112120
+  },
+  {
+    "label": "Invesco India Short Term Fund - Dir - Dividend",
+    "value": 120563
+  },
+  {
+    "label": "Invesco India Short Term Fund - Dir - Growth",
+    "value": 120560
+  },
+  {
+    "label": "Invesco India Short Term Fund - Growth",
+    "value": 105185
+  },
+  {
+    "label": "Invesco India Short Term Fund - Plan B - Growth",
+    "value": 105189
+  },
+  {
+    "label": "Invesco India Treasury Advantage Fund - Bonus",
+    "value": 104727
+  },
+  {
+    "label": "Invesco India Treasury Advantage Fund - Dir - Bonus",
+    "value": 120569
+  },
+  {
+    "label": "Invesco India Treasury Advantage Fund - Dir - Dividend",
+    "value": 120567
+  },
+  {
+    "label": "Invesco India Treasury Advantage Fund - Dir - Growth",
+    "value": 120570
+  },
+  {
+    "label": "Invesco India Treasury Advantage Fund - Dividend",
+    "value": 115458
+  },
+  {
+    "label": "Invesco India Treasury Advantage Fund - Growth",
+    "value": 104726
+  },
+  {
+    "label": "Invesco India Treasury Advantage Fund - Reg - Growth",
+    "value": 104728
+  },
+  {
+    "label": "Invesco India Ultra Short Term Fund - Dir - Growth",
+    "value": 120541
+  },
+  {
+    "label": "Invesco India Ultra Short Term Fund - Growth",
+    "value": 114359
+  },
+  {
+    "label": "JM Liquid Fund - Bonus",
+    "value": 101549
+  },
+  {
+    "label": "JM Liquid Fund - Dir - Bonus",
+    "value": 120410
+  },
+  {
+    "label": "JM Liquid Fund - Dir - Growth",
+    "value": 120406
+  },
+  {
+    "label": "JM Liquid Fund - Growth",
+    "value": 100234
+  },
+  {
+    "label": "JM Liquid Fund - Super I P - Growth",
+    "value": 100247
+  },
+  {
+    "label": "JM Liquid Fund - Unclaimed Dividend - Dir - Growth",
+    "value": 139258
+  },
+  {
+    "label": "JM Liquid Fund - Unclaimed Dividend I.E.F - Dir - Growth",
+    "value": 139260
+  },
+  {
+    "label": "JM Liquid Fund - Unclaimed Redemption - Dir - Growth",
+    "value": 139257
+  },
+  {
+    "label": "JM Liquid Fund - Unclaimed Redemption I.E.F - Dir - Growth",
+    "value": 139259
+  },
+  {
+    "label": "Kotak Banking and PSU Debt Fund - Dir - Growth",
+    "value": 123693
+  },
+  {
+    "label": "Kotak Banking and PSU Debt Fund - Reg - Growth",
+    "value": 123690
+  },
+  {
+    "label": "Kotak Bond Scheme - Dir - Growth",
+    "value": 119735
+  },
+  {
+    "label": "Kotak Bond Scheme - Reg - Growth",
+    "value": 100299
+  },
+  {
+    "label": "Kotak Bond Short Term Plan - Dir - Dividend",
+    "value": 135500
+  },
+  {
+    "label": "Kotak Bond Short Term Plan - Dir - Growth",
+    "value": 119739
+  },
+  {
+    "label": "Kotak Bond Short Term Plan - Reg - Growth",
+    "value": 101373
+  },
+  {
+    "label": "Kotak Corporate Bond Fund - Dir - Growth",
+    "value": 133791
+  },
+  {
+    "label": "Kotak Corporate Bond Fund - Std - Growth",
+    "value": 133782
+  },
+  {
+    "label": "Kotak Dynamic Bond Fund - Dir - Growth",
+    "value": 119755
+  },
+  {
+    "label": "Kotak Dynamic Bond Fund - Reg - Growth",
+    "value": 108511
+  },
+  {
+    "label": "Kotak Liquid Scheme - Dir - Growth",
+    "value": 119766
+  },
+  {
+    "label": "Kotak Liquid Scheme - Reg - Growth",
+    "value": 100835
+  },
+  {
+    "label": "Kotak Low Duration Fund - Dir - Growth",
+    "value": 133810
+  },
+  {
+    "label": "Kotak Low Duration Fund - Std - Growth",
+    "value": 133805
+  },
+  {
+    "label": "Kotak Money Market Scheme - Dir - Growth",
+    "value": 119746
+  },
+  {
+    "label": "Kotak Money Market Scheme - Reg - Growth",
+    "value": 101893
+  },
+  {
+    "label": "Kotak Savings Fund - Dir - Growth",
+    "value": 119750
+  },
+  {
+    "label": "Kotak Savings Fund - Reg - Growth",
+    "value": 102591
+  },
+  {
+    "label": "L&T Banking and PSU Debt Fund - Dir - Growth",
+    "value": 119795
+  },
+  {
+    "label": "L&T Banking and PSU Debt Fund - Growth",
+    "value": 118078
+  },
+  {
+    "label": "L&T Cash Fund - Dir - Growth",
+    "value": 119283
+  },
+  {
+    "label": "L&T Cash Fund - Growth",
+    "value": 118058
+  },
+  {
+    "label": "L&T Liquid Fund - Dir - Growth",
+    "value": 119790
+  },
+  {
+    "label": "L&T Liquid Fund - Growth",
+    "value": 112457
+  },
+  {
+    "label": "L&T Money Market Fund - Dir - Cumulative",
+    "value": 119431
+  },
+  {
+    "label": "L&T Money Market Fund - Reg - Cumulative",
+    "value": 114216
+  },
+  {
+    "label": "L&T Resurgent India Bond Fund - Dir - Dividend",
+    "value": 133606
+  },
+  {
+    "label": "L&T Resurgent India Bond Fund - Dir - Growth",
+    "value": 133604
+  },
+  {
+    "label": "L&T Resurgent India Bond Fund - Reg - Dividend",
+    "value": 133605
+  },
+  {
+    "label": "L&T Resurgent India Bond Fund - Reg - Growth",
+    "value": 133607
+  },
+  {
+    "label": "L&T Short Term Bond Fund - Dir - Dividend",
+    "value": 119857
+  },
+  {
+    "label": "L&T Short Term Bond Fund - Dir - Growth",
+    "value": 119856
+  },
+  {
+    "label": "L&T Short Term Bond Fund - Reg - Bonus",
+    "value": 116296
+  },
+  {
+    "label": "L&T Short Term Bond Fund - Reg - Dividend",
+    "value": 116297
+  },
+  {
+    "label": "L&T Short Term Bond Fund - Reg - Growth",
+    "value": 116299
+  },
+  {
+    "label": "L&T Triple Ace Bond Fund - Dir - Growth",
+    "value": 119844
+  },
+  {
+    "label": "L&T Triple Ace Bond Fund - Reg - Bonus",
+    "value": 112420
+  },
+  {
+    "label": "L&T Triple Ace Bond Fund - Reg - Growth",
+    "value": 112410
+  },
+  {
+    "label": "L&T Ultra Short Term Fund - Bonus",
+    "value": 129926
+  },
+  {
+    "label": "L&T Ultra Short Term Fund - Dir - Bonus",
+    "value": 129925
+  },
+  {
+    "label": "L&T Ultra Short Term Fund - Dir - Growth",
+    "value": 119849
+  },
+  {
+    "label": "L&T Ultra Short Term Fund - Growth",
+    "value": 112423
+  },
+  {
+    "label": "L&T Ultra Short Term Fund - Reg - Growth",
+    "value": 112422
+  },
+  {
+    "label": "LIC MF Banking & PSU Debt Fund - Dir - Growth",
+    "value": 120338
+  },
+  {
+    "label": "LIC MF Banking & PSU Debt Fund - Growth",
+    "value": 105823
+  },
+  {
+    "label": "LIC MF Liquid Fund - Dir - Growth",
+    "value": 120249
+  },
+  {
+    "label": "LIC MF Liquid Fund - Growth",
+    "value": 101185
+  },
+  {
+    "label": "LIC MF Savings Fund - Dir - Growth",
+    "value": 120315
+  },
+  {
+    "label": "LIC MF Savings Fund - Growth",
+    "value": 101830
+  },
+  {
+    "label": "Mirae Asset Cash Management Fund - Dir - Growth",
+    "value": 118859
+  },
+  {
+    "label": "Mirae Asset Cash Management Fund - Growth",
+    "value": 111646
+  },
+  {
+    "label": "Mirae Asset Savings Fund - Dir - Growth",
+    "value": 118840
+  },
+  {
+    "label": "Mirae Asset Savings Fund - Regular Savings Plan - Growth",
+    "value": 107705
+  },
+  {
+    "label": "Mirae Asset Short Term Fund - Dir - Dividend",
+    "value": 142640
+  },
+  {
+    "label": "Mirae Asset Short Term Fund - Dir - Growth",
+    "value": 142641
+  },
+  {
+    "label": "Mirae Asset Short Term Fund - Reg - Dividend",
+    "value": 142643
+  },
+  {
+    "label": "Mirae Asset Short Term Fund - Reg - Growth",
+    "value": 142642
+  },
+  {
+    "label": "Nippon India Banking & PSU Debt Fund - Dir - Bonus",
+    "value": 134552
+  },
+  {
+    "label": "Nippon India Banking & PSU Debt Fund - Dir - Dividend",
+    "value": 134555
+  },
+  {
+    "label": "Nippon India Banking & PSU Debt Fund - Dir - Growth",
+    "value": 134547
+  },
+  {
+    "label": "Nippon India Banking & PSU Debt Fund - Reg - Dividend",
+    "value": 134548
+  },
+  {
+    "label": "Nippon India Banking & PSU Debt Fund - Reg - Growth",
+    "value": 134545
+  },
+  {
+    "label": "Nippon India ETF Liquid BeES",
+    "value": 140086
+  },
+  {
+    "label": "Nippon India Floating Rate Fund - Dir - Dividend",
+    "value": 124590
+  },
+  {
+    "label": "Nippon India Floating Rate Fund - Dir - Growth",
+    "value": 118656
+  },
+  {
+    "label": "Nippon India Floating Rate Fund - Dividend",
+    "value": 124589
+  },
+  {
+    "label": "Nippon India Floating Rate Fund - Growth",
+    "value": 102673
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - Dir - Bonus",
+    "value": 133265
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - Dir - Defined Maturity Date -\nGrowth",
+    "value": 118673
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - Dir - Growth",
+    "value": 118672
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - Growth",
+    "value": 109720
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - IP - Growth",
+    "value": 109717
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - PF - Dir - Auto Cap App - Payout",
+    "value": 118669
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - Retail - PF - Auto Cap App - Payout",
+    "value": 109724
+  },
+  {
+    "label": "Nippon India Gilt Securities Fund - Retail - PF - Defined Maturity Date",
+    "value": 109721
+  },
+  {
+    "label": "Nippon India Liquid Fund - Dir - Growth",
+    "value": 118701
+  },
+  {
+    "label": "Nippon India Liquid Fund - Growth",
+    "value": 100851
+  },
+  {
+    "label": "Nippon India Liquid Fund - Retail - Growth",
+    "value": 100837
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Bonus",
+    "value": 111746
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Dir - Bonus",
+    "value": 118702
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Dir - Dividend",
+    "value": 125264
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Dir - Growth",
+    "value": 118709
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Dividend",
+    "value": 125265
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Growth",
+    "value": 111753
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Retail - Bonus",
+    "value": 111743
+  },
+  {
+    "label": "Nippon India Low Duration Fund - Retail - Growth",
+    "value": 111748
+  },
+  {
+    "label": "Nippon India Money Market Fund - Dir - Bonus",
+    "value": 118715
+  },
+  {
+    "label": "Nippon India Money Market Fund - Dir - Growth",
+    "value": 118719
+  },
+  {
+    "label": "Nippon India Money Market Fund - Growth",
+    "value": 103048
+  },
+  {
+    "label": "Nippon India Nivesh Lakshya Fund - Dir - Dividend",
+    "value": 143707
+  },
+  {
+    "label": "Nippon India Nivesh Lakshya Fund - Dir - Growth",
+    "value": 143704
+  },
+  {
+    "label": "Nippon India Nivesh Lakshya Fund - Reg - Dividend",
+    "value": 143706
+  },
+  {
+    "label": "Nippon India Nivesh Lakshya Fund - Reg - Growth",
+    "value": 143702
+  },
+  {
+    "label": "Nippon India Short Term Fund - Dir ? Dividend",
+    "value": 125269
+  },
+  {
+    "label": "Nippon India Short Term Fund - Dir ? Growth",
+    "value": 118796
+  },
+  {
+    "label": "Nippon India Short Term Fund ? Dividend",
+    "value": 125268
+  },
+  {
+    "label": "Nippon India Short Term Fund ? Growth",
+    "value": 101665
+  },
+  {
+    "label": "SBI Banking and PSU Fund - Dir - Growth",
+    "value": 125503
+  },
+  {
+    "label": "SBI Banking and PSU Fund - Growth",
+    "value": 125498
+  },
+  {
+    "label": "SBI Corporate Bond Fund ? Reg ? Growth",
+    "value": 146207
+  },
+  {
+    "label": "SBI Dynamic Bond Fund - Dir - Dividend",
+    "value": 119670
+  },
+  {
+    "label": "SBI Dynamic Bond Fund - Dir - Growth",
+    "value": 119671
+  },
+  {
+    "label": "SBI Dynamic Bond Fund - Dividend",
+    "value": 102206
+  },
+  {
+    "label": "SBI Dynamic Bond Fund - Growth",
+    "value": 102205
+  },
+  {
+    "label": "SBI Liquid Fund - Dir - Growth",
+    "value": 119800
+  },
+  {
+    "label": "SBI Liquid Fund - IP - Growth",
+    "value": 105274
+  },
+  {
+    "label": "SBI Liquid Fund - Reg - Growth",
+    "value": 105280
+  },
+  {
+    "label": "SBI Magnum Constant Maturity Fund - Dir - Dividend",
+    "value": 120136
+  },
+  {
+    "label": "SBI Magnum Constant Maturity Fund - Dir - Growth",
+    "value": 120137
+  },
+  {
+    "label": "SBI Magnum Constant Maturity Fund - Dividend",
+    "value": 101003
+  },
+  {
+    "label": "SBI Magnum Constant Maturity Fund - Growth",
+    "value": 101002
+  },
+  {
+    "label": "SBI Magnum Gilt Fund - Dir - Growth",
+    "value": 119707
+  },
+  {
+    "label": "SBI Magnum Gilt Fund - Dividend",
+    "value": 100999
+  },
+  {
+    "label": "SBI Magnum Gilt Fund - Growth",
+    "value": 101001
+  },
+  {
+    "label": "SBI Magnum Gilt Fund - PF - Fixed Period - 3 year - Growth",
+    "value": 101934
+  },
+  {
+    "label": "SBI Magnum Gilt Fund - PF - Regular - Dividend",
+    "value": 101935
+  },
+  {
+    "label": "SBI Magnum Gilt Fund - PF - Regular - Growth",
+    "value": 101932
+  },
+  {
+    "label": "SBI Magnum Income Fund - Bonus",
+    "value": 100640
+  },
+  {
+    "label": "SBI Magnum Income Fund - Dir - Bonus",
+    "value": 119712
+  },
+  {
+    "label": "SBI Magnum Income Fund - Dir - Growth",
+    "value": 119714
+  },
+  {
+    "label": "SBI Magnum Income Fund - Growth",
+    "value": 100639
+  },
+  {
+    "label": "SBI Magnum Low Duration Fund - Dir - Growth",
+    "value": 119812
+  },
+  {
+    "label": "SBI Magnum Low Duration Fund - Growth",
+    "value": 106212
+  },
+  {
+    "label": "SBI Magnum Low Duration Fund - IP - Growth",
+    "value": 106217
+  },
+  {
+    "label": "SBI Magnum Medium Duration Fund - Dir - Dividend",
+    "value": 119825
+  },
+  {
+    "label": "SBI Magnum Medium Duration Fund - Dir - Growth",
+    "value": 119824
+  },
+  {
+    "label": "SBI Magnum Medium Duration Fund - Dividend",
+    "value": 102054
+  },
+  {
+    "label": "SBI Magnum Medium Duration Fund - Growth",
+    "value": 102053
+  },
+  {
+    "label": "SBI Magnum Ultra Short Duration Fund - Dir - Growth",
+    "value": 119828
+  },
+  {
+    "label": "SBI Magnum Ultra Short Duration Fund - Growth",
+    "value": 100641
+  },
+  {
+    "label": "SBI Overnight Fund - Dir - Dividend",
+    "value": 119832
+  },
+  {
+    "label": "SBI Overnight Fund - Dir - Growth",
+    "value": 119833
+  },
+  {
+    "label": "SBI Overnight Fund - Dividend",
+    "value": 103140
+  },
+  {
+    "label": "SBI Overnight Fund - Growth",
+    "value": 101206
+  },
+  {
+    "label": "SBI Savings Fund - Dir - Dividend",
+    "value": 119820
+  },
+  {
+    "label": "SBI Savings Fund - Dir - Growth",
+    "value": 119821
+  },
+  {
+    "label": "SBI Savings Fund - Dividend",
+    "value": 102504
+  },
+  {
+    "label": "SBI Savings Fund - Growth",
+    "value": 102503
+  },
+  {
+    "label": "SBI Short Term Debt Fund - Dir - Growth",
+    "value": 119816
+  },
+  {
+    "label": "SBI Short Term Debt Fund - Growth",
+    "value": 106231
+  },
+  {
+    "label": "SBI Short Term Debt Fund - Ret - Growth",
+    "value": 106227
+  },
+  {
+    "label": "Sundaram Banking & PSU Debt Fund - Bonus",
+    "value": 118326
+  },
+  {
+    "label": "Sundaram Banking & PSU Debt Fund - Dir - Bonus",
+    "value": 119629
+  },
+  {
+    "label": "Sundaram Banking & PSU Debt Fund - Dir - Growth",
+    "value": 119625
+  },
+  {
+    "label": "Sundaram Banking & PSU Debt Fund - Growth",
+    "value": 100781
+  },
+  {
+    "label": "Sundaram Banking & PSU Debt Fund - Reg - Growth",
+    "value": 100784
+  },
+  {
+    "label": "Sundaram Corporate Bond Fund - Dir - Growth",
+    "value": 119621
+  },
+  {
+    "label": "Sundaram Corporate Bond Fund - Reg - Growth",
+    "value": 100789
+  },
+  {
+    "label": "Sundaram Low Duration Fund  - Dir - Growth",
+    "value": 119680
+  },
+  {
+    "label": "Sundaram Low Duration Fund - Bonus",
+    "value": 118329
+  },
+  {
+    "label": "Sundaram Low Duration Fund - IP - Growth",
+    "value": 105562
+  },
+  {
+    "label": "Sundaram Low Duration Fund - Reg - Growth",
+    "value": 105563
+  },
+  {
+    "label": "Sundaram Low Duration Fund - Retail - Growth",
+    "value": 105564
+  },
+  {
+    "label": "Sundaram Money Fund  - Dir - Growth",
+    "value": 119686
+  },
+  {
+    "label": "Sundaram Money Fund - Bonus",
+    "value": 118328
+  },
+  {
+    "label": "Sundaram Money Fund - Dir - Bonus",
+    "value": 119690
+  },
+  {
+    "label": "Sundaram Money Fund - Growth",
+    "value": 100618
+  },
+  {
+    "label": "Sundaram Money Fund - Reg - Growth",
+    "value": 103397
+  },
+  {
+    "label": "Tata Liquid Fund - Dir - Growth",
+    "value": 119861
+  },
+  {
+    "label": "Tata Liquid Fund - Reg - Growth",
+    "value": 102672
+  },
+  {
+    "label": "Tata Money Market Fund - Dir - Growth",
+    "value": 119424
+  },
+  {
+    "label": "Tata Money Market Fund - Reg - Growth",
+    "value": 101847
+  },
+  {
+    "label": "Tata Short Term Bond Fund - Dir - Dividend",
+    "value": 133974
+  },
+  {
+    "label": "Tata Short Term Bond Fund - Dir - Growth",
+    "value": 119949
+  },
+  {
+    "label": "Tata Short Term Bond Fund - Reg - Dividend",
+    "value": 133975
+  },
+  {
+    "label": "Tata Short Term Bond Fund - Reg - Growth",
+    "value": 101548
+  },
+  {
+    "label": "Tata Treasury Advantage Fund - Dir - Dividend",
+    "value": 119957
+  },
+  {
+    "label": "Tata Treasury Advantage Fund - Dir - Growth",
+    "value": 119863
+  },
+  {
+    "label": "Tata Treasury Advantage Fund - Reg - Dividend",
+    "value": 115464
+  },
+  {
+    "label": "Tata Treasury Advantage Fund - Reg - Growth",
+    "value": 103159
+  },
+  {
+    "label": "UTI Corporate Bond Fund - Dir - Growth",
+    "value": 144339
+  },
+  {
+    "label": "UTI Corporate Bond Fund - Reg - Growth",
+    "value": 144345
+  },
+  {
+    "label": "UTI Dynamic Bond Fund - Dir - Dividend",
+    "value": 120763
+  },
+  {
+    "label": "UTI Dynamic Bond Fund - Dir - Growth",
+    "value": 120762
+  },
+  {
+    "label": "UTI Dynamic Bond Fund - Reg - Growth",
+    "value": 113077
+  },
+  {
+    "label": "UTI Floater Fund - Dir - Growth",
+    "value": 145295
+  },
+  {
+    "label": "UTI Floater Fund - Reg - Growth",
+    "value": 145287
+  },
+  {
+    "label": "UTI Gilt Fund - Dir - Dividend",
+    "value": 120791
+  },
+  {
+    "label": "UTI Gilt Fund - Dir - Growth",
+    "value": 120792
+  },
+  {
+    "label": "UTI Gilt Fund - Dividend",
+    "value": 102509
+  },
+  {
+    "label": "UTI Gilt Fund - Growth",
+    "value": 102510
+  },
+  {
+    "label": "UTI Liquid Cash Plan - Discontinued - Reg - Growth",
+    "value": 102009
+  },
+  {
+    "label": "UTI Liquid Cash Plan - Reg - Growth",
+    "value": 102012
+  },
+  {
+    "label": "UTI Liquid Cash Plan -Dir- Growth",
+    "value": 120304
+  },
+  {
+    "label": "UTI Money Market Fund - Discontinued - Reg - Growth",
+    "value": 100723
+  },
+  {
+    "label": "UTI Money Market Fund - Reg - Growth",
+    "value": 112077
+  },
+  {
+    "label": "UTI Money Market Fund -Dir- Growth",
+    "value": 120299
+  },
+  {
+    "label": "UTI Overnight Fund - Dir - Growth",
+    "value": 120785
+  },
+  {
+    "label": "UTI Overnight Fund - Growth",
+    "value": 100814
+  },
+  {
+    "label": "UTI Short Term Income Fund - Dir - Growth",
+    "value": 120718
+  },
+  {
+    "label": "UTI Short Term Income Fund - Discontinued - Reg - Dividend",
+    "value": 106383
+  },
+  {
+    "label": "UTI Short Term Income Fund - Discontinued - Reg - Growth",
+    "value": 106384
+  },
+  {
+    "label": "UTI Short Term Income Fund - Reg - Growth",
+    "value": 106624
+  },
+  {
+    "label": "UTI Treasury Advantage Fund - Dir - Bonus",
+    "value": 120738
+  },
+  {
+    "label": "UTI Treasury Advantage Fund - Dir - Growth",
+    "value": 120735
+  },
+  {
+    "label": "UTI Treasury Advantage Fund - Discontinued - Bonus Plan",
+    "value": 102539
+  },
+  {
+    "label": "UTI Treasury Advantage Fund - Discontinued - Growth",
+    "value": 102540
+  },
+  {
+    "label": "UTI Treasury Advantage Fund - Reg - Bonus",
+    "value": 102545
+  },
+  {
+    "label": "UTI Treasury Advantage Fund - Reg - Growth",
+    "value": 102544
+  },
+  {
+    "label": "UTI Ultra Short Term Fund - Dir - Growth",
+    "value": 120746
+  },
+  {
+    "label": "UTI Ultra Short Term Fund - Discontinued - IP - Growth",
+    "value": 112083
+  },
+  {
+    "label": "UTI Ultra Short Term Fund - Growth",
+    "value": 102532
+  }
+]

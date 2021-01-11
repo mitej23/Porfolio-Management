@@ -1,0 +1,98 @@
+/* * {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+#outer-div {
+  position: absolute;
+  width: 791px;
+  height: 819px;
+  left: 305px;
+  top: 157px;
+  border-radius: 59px;
+  background-color: aqua;
+}
+#title {
+  position: absolute;
+  width: 253px;
+  height: 60px;
+  left: 363px;
+  top: 213px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+
+  color: #000000;
+}
+#fund {
+  position: absolute;
+  width: 638px;
+  height: 125px;
+  left: 375px;
+  top: 305px;
+}
+#fund-title {
+  position: absolute;
+  width: 253px;
+  height: 60px;
+  left: 375px;
+  top: 305px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+
+  color: #000000;
+}
+#selectFund {
+  position: absolute;
+  width: 625px;
+  height: 57px;
+  left: 388px;
+  top: 373px;
+
+  background: #e1dada;
+  border-radius: 7px;
+}
+
+#amt-invested {
+  position: absolute;
+  width: 633px;
+  height: 126px;
+  left: 380px;
+  top: 469px;
+}
+#amt-title {
+  position: absolute;
+  width: 297px;
+  height: 60px;
+  left: 380px;
+  top: 469px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+
+  color: #000000;
+}
+
+#amt-input {
+  position: absolute;
+  width: 625px;
+  height: 57px;
+  left: 388px;
+  top: 538px;
+
+  background: #e1dada;
+  border-radius: 7px;
+} */

@@ -1,0 +1,11 @@
+.fund-amt {
+  margin: auto;
+  padding: auto;
+  height: 50%;
+  width: 25%;
+  justify-content: center;
+}
+.amt-h1{
+  margin: auto;
+  text-align: right;
+}

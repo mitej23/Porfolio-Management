@@ -1,0 +1,9 @@
+.fund-bar {
+  display: flex;
+  height: 15%;
+  width: 95%;
+  border-radius: 15px;
+  margin: 1%;
+  align-content: center;
+  border-style: inset;
+}

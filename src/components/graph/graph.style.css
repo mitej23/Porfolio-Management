@@ -1,0 +1,11 @@
+#mychart {
+  height: 500px;
+  width: 1000px;
+  margin: auto;
+}
+
+.top-container {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+}

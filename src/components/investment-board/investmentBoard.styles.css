@@ -1,0 +1,14 @@
+.inv-board {
+  display: flex;
+  border-radius: 25px;
+  margin: 1%;
+  border-style: inset;
+  height: 90%;
+  justify-content: center;
+  flex-flow: wrap;
+  overflow-y: scroll;
+}
+
+.inv-board::-webkit-scrollbar {
+  display: none;
+}
