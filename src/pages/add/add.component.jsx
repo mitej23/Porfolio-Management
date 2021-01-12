@@ -28,17 +28,9 @@ const AddFund = () => {
       dateOfInvestment: null,
     },
     onSubmit: (values) => {
-      //console.log(values);
       values.fundName = selectedOptions.fundName;
       values.code = selectedOptions.code;
-      // const newfund = {
-      //   // id: prevFunds.length + 1,
-      //   fundName: `${values.fundName}`,
-      //   dateOfInvestment: new Date(`${values.dateOfInvestment}`),
-      //   amtInvested: values.amtInvested,
-      //   code: values.code,
-      // };
-      // console.log(newfund);
+
       addFund((prevFunds) => [
         ...prevFunds,
         {
