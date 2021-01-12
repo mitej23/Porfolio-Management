@@ -4,7 +4,7 @@ import "./fund-name.styles.css";
 
 // /${name}
 function FundName({ name, code, dateOfInvestment }) {
-  //console.log(code);
+  console.log(name);
   return (
     <div className="fund-name">
       <h1 className="name-h1">

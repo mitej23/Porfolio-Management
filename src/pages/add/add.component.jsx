@@ -1,91 +1,94 @@
-import React from "react";
-import { Formik, Field, Form } from "formik";
+import React, { useContext, useState } from "react";
+import { useFormik } from "formik";
 import JSONDATA from "../../data.json";
 import Select from "react-select";
 import "./add.styles.css";
+import { FundContext } from "../../data/data.context";
 
 const options = JSONDATA;
 
-class AddFund extends React.Component {
-  state = {
-    selectedOptions: null,
-    amount: 0,
-    date: undefined,
+const AddFund = () => {
+  //context
+  const [funds, addFund] = useContext(FundContext);
+
+  //state for selectted input
+  let [selectedOptions, setOptions] = useState({ fundName: "", code: 0 });
+  const [selectedOption] = useState();
+  const handleChange = (e) => {
+    const { label, value } = e;
+    setOptions({
+      fundName: label,
+      code: value,
+    });
   };
-  handleChange = (event) => {
-    this.setState({ selectedOptions: event });
-  };
-  handleSubmit = (e) => {
-    e.preventDefault();
-  };
-  render() {
-    const { selectedOption } = this.state;
-    // const { amount } = this.state;
-    // const { date } = this.state;
-    return (
-      <div>
-        <div id="outer-div">
-          <h1 id="title">Add Fund</h1>
-          <h2 id="fund-title">Select a Fund</h2>
-          <Formik
-            initialValues={{ amount: 0, date: null }}
-            onSubmit={async (values) => {
-              await new Promise((resolve) => setTimeout(resolve, 500));
-              //alert(JSON.stringify(values, null, 2));
-              this.setState(values);
-              console.log(this.state);
-            }}
-          >
-            <Form>
-              <Select
-                id="selectFund"
-                value={selectedOption}
-                onChange={this.handleChange}
-                options={options}
-              />
-              <h2 id="amt-title">Amount Invested</h2>
-              <Field name="amount" type="number" id="amt-input" />
-              <br />
-              <h2 id="date-title">Date of Investement</h2>
-              <Field name="date" type="date" id="date-input" />
-              <br />
-              <button type="submit" id="submit">
-                Submit
-              </button>
-            </Form>
-          </Formik>
-          {/* <form onSubmit={this.handleSubmit}>
-            <h1 id="title">Add Fund</h1>
-            <h2 id="fund-title">Select a Fund</h2>
-            <Select
-              id="selectFund"
-              // value={selectedOption}
-              onChange={this.handleChange}
-              options={options}
-            />
-            <h2 id="amt-title">Amount Invested</h2>
-            <input
-              id="amt-input"
-              type="number"
-              name="amount"
-              // value={amount}
-              onChange={this.handleChange}
-            />
-            <h2 id="date-title">Date of Investement</h2>
-            <input
-              type="date"
-              id="date-input"
-              name="date"
-              // value={date}
-              onChange={this.handleChange}
-            />
-            <br />
-            <input type="submit" value="Add" id="submit" />
-          </form> */}
-        </div>
+  //formik state
+  const formik = useFormik({
+    initialValues: {
+      amtInvested: null,
+      dateOfInvestment: null,
+    },
+    onSubmit: (values) => {
+      //console.log(values);
+      values.fundName = selectedOptions.fundName;
+      values.code = selectedOptions.code;
+      // const newfund = {
+      //   // id: prevFunds.length + 1,
+      //   fundName: `${values.fundName}`,
+      //   dateOfInvestment: new Date(`${values.dateOfInvestment}`),
+      //   amtInvested: values.amtInvested,
+      //   code: values.code,
+      // };
+      // console.log(newfund);
+      addFund((prevFunds) => [
+        ...prevFunds,
+        {
+          id: prevFunds.length + 1,
+          fundName: `${values.fundName}`,
+          dateOfInvestment: new Date(`${values.dateOfInvestment}`),
+          amtInvested: values.amtInvested,
+          code: values.code,
+        },
+      ]);
+      console.log(funds);
+    },
+  });
+  return (
+    <div>
+      <div id="outer-div">
+        <h1 id="title">Add Fund</h1>
+        <h2 id="fund-title">Select a Fund</h2>
+        <form onSubmit={formik.handleSubmit}>
+          <Select
+            id="selectFund"
+            value={selectedOption}
+            onChange={handleChange}
+            options={options}
+          />
+          <h2 id="amt-title">Amount Invested</h2>
+          <input
+            name="amtInvested"
+            type="number"
+            id="amt-input"
+            value={formik.values.amtInvested}
+            onChange={formik.handleChange}
+          />
+          <br />
+          <h2 id="date-title">Date of Investement</h2>
+          <input
+            name="dateOfInvestment"
+            type="date"
+            id="date-input"
+            values={formik.values.dateOfInvestment}
+            onChange={formik.handleChange}
+          />
+          <br />
+          <button type="submit" id="submit">
+            Submit
+          </button>
+        </form>
       </div>
-    );
-  }
-}
+    </div>
+  );
+};
 
 export default AddFund;

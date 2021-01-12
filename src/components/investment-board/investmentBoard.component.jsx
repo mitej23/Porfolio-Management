@@ -5,6 +5,7 @@ import "./investmentBoard.styles.css";
 import Fund from "../fund/fund.component";
 
 function InvestmentBoard(props) {
+  //console.log(props);
   return (
     <div>
       <div className="inv-board">
