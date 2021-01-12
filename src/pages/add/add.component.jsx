@@ -4,22 +4,25 @@ import JSONDATA from "../../data.json";
 import Select from "react-select";
 import "./add.styles.css";
 import { FundContext } from "../../data/data.context";
-
+import { Link } from "react-router-dom";
 const options = JSONDATA;
 
-const AddFund = () => {
+const AddFund = (props) => {
   //context
   const [funds, addFund] = useContext(FundContext);
 
   //state for selectted input
   let [selectedOptions, setOptions] = useState({ fundName: "", code: 0 });
-  const [selectedOption] = useState();
+  let [selectedOption] = useState();
   const handleChange = (e) => {
     const { label, value } = e;
     setOptions({
       fundName: label,
       code: value,
     });
+  };
+  const homePage = () => {
+    props.history.push("/");
   };
   //formik state
   const formik = useFormik({
@@ -42,14 +45,17 @@ const AddFund = () => {
         },
       ]);
       console.log(funds);
+      alert("New fund was added");
+      homePage();
     },
   });
   return (
     <div>
+      <Link to="/">Back</Link>
       <div id="outer-div">
         <h1 id="title">Add Fund</h1>
         <h2 id="fund-title">Select a Fund</h2>
-        <form onSubmit={formik.handleSubmit}>
+        <form onSubmit={formik.handleSubmit} name="form">
           <Select
             id="selectFund"
             value={selectedOption}
