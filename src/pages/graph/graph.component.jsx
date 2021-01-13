@@ -1,15 +1,8 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 import "./graph.styles.css";
-
+import { RiHomeLine } from "react-icons/ri";
 import Graph from "../../components/graph/graph.component";
-
-// for (let i = 0; i < data.dataset.data.length; i++){
-//   that.setState.dataPoint.push({
-//     x: new Date(data.dataset.data[i][0]),
-//     y: data.dataset.data[i][1],
-//   });
-// }
 
 class GraphPage extends React.Component {
   constructor(props) {
@@ -38,11 +31,16 @@ class GraphPage extends React.Component {
   }
 
   render() {
-    const {data} = this.state;
+    const { data } = this.state;
     return (
       <div>
+        <Link to="/">
+          <div className="back">
+            <RiHomeLine size={30} />
+          </div>
+        </Link>
         {console.log(this.state)}
-        <Graph data={data}/>
+        <Graph data={data} />
       </div>
     );
   }
