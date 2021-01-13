@@ -5,6 +5,7 @@ import Select from "react-select";
 import "./add.styles.css";
 import { FundContext } from "../../data/data.context";
 import { Link } from "react-router-dom";
+
 const options = JSONDATA;
 
 const AddFund = (props) => {
@@ -49,6 +50,30 @@ const AddFund = (props) => {
       homePage();
     },
   });
+  //react-select-styling
+  const customStyles = {
+    singleValue: (provided, state) => ({
+      ...provided,
+      color: "white",
+    }),
+    input: (provided, state) => ({
+      ...provided,
+      color: "white",
+    }),
+    placeholder: (provided, state) => ({
+      ...provided,
+      color: "white",
+    }),
+    control: (provided, state) => ({
+      ...provided,
+      color: "white",
+    }),
+    // option: () => ({
+    //   ":active": {
+    //     color: "red",
+    //   },
+    // }),
+  };
   return (
     <div>
       <Link to="/">Back</Link>
@@ -61,6 +86,7 @@ const AddFund = (props) => {
             value={selectedOption}
             onChange={handleChange}
             options={options}
+            styles={customStyles}
           />
           <h2 id="amt-title">Amount Invested</h2>
           <input
@@ -81,7 +107,7 @@ const AddFund = (props) => {
           />
           <br />
           <button type="submit" id="submit">
-            Submit
+            <span id="btn-text">Submit</span>
           </button>
         </form>
       </div>

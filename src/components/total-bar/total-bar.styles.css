@@ -3,4 +3,21 @@
   justify-content: flex-end;
   margin: 1%;
   height: 10%;
+  text-decoration: none;
+}
+.add {
+  margin-top: 23px;
+  margin-right: 25px;
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+}
+.text {
+  margin-left: -130px;
+  margin-bottom: 10px;
+  position: absolute;
+  text-decoration: none;
+  color: white;
 }

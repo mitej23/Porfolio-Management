@@ -9,7 +9,7 @@ function FundName({ name, code, dateOfInvestment }) {
     <div className="fund-name">
       <h1 className="name-h1">
         <Link
-          style={{ textDecoration: "none", color: "black" }}
+          style={{ textDecoration: "none", color: "white" }}
           to={{
             pathname: `/fund/${name}`,
             state: {

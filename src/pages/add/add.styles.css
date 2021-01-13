@@ -4,16 +4,23 @@
   margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
-  background: aqua;
   padding: 50px;
+  border-radius: 25px;
+  background: #413d3d;
+  box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
+}
+#title {
+  color: white;
 }
 #fund-title {
   margin-top: 15px;
   margin-bottom: 7px;
+  color: white;
 }
 #amt-title {
   margin-top: 15px;
   margin-bottom: 7px;
+  color: white;
 }
 #amt-input {
   height: 40px;
@@ -23,9 +30,14 @@
   padding-left: 10px;
   font-size: large;
   margin-bottom: 10px;
+  border-radius: 25px;
+  background: #413d3d;
+  box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
+  color: white;
 }
 #date-title {
   margin-bottom: 7px;
+  color: white;
 }
 #date-input {
   height: 40px;
@@ -34,9 +46,30 @@
   outline: none;
   padding-left: 10px;
   font-size: large;
+  border-radius: 25px;
+  background: #413d3d;
+  box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
+  color: white;
 }
 #submit {
-  height: 30px;
-  width: 50px;
-  margin-top: 10px;
+  height: 40px;
+  width: 70px;
+  margin-top: 20px;
+  border-radius: 25px;
+  background: #413d3d;
+  box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
+  color: white;
+  padding: 5px;
+}
+#selectFund {
+  border-radius: 25px;
+  /* background: #413d3d; */
+  box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
+  color: white;
+}
+#selectFund::first-line {
+  color: white;
+}
+#btn-text {
+  color: white;
 }

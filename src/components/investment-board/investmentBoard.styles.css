@@ -2,11 +2,13 @@
   display: flex;
   border-radius: 25px;
   margin: 1%;
-  border-style: inset;
   height: 90%;
   justify-content: center;
   flex-flow: wrap;
   overflow-y: scroll;
+  border-radius: 25px;
+  background: #413d3d;
+  box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
 }
 
 .inv-board::-webkit-scrollbar {

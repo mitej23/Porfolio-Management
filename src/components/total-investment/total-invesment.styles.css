@@ -1,4 +1,7 @@
 .inv-amt {
   margin: 20px;
-  padding-right: 20px;
+  padding-right: 60px;
+  font-size: 30px;
+  padding-top: 3px;
+  color: white;
 }
