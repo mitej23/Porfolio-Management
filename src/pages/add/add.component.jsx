@@ -5,6 +5,7 @@ import Select from "react-select";
 import "./add.styles.css";
 import { FundContext } from "../../data/data.context";
 import { Link } from "react-router-dom";
+import { RiHomeLine } from "react-icons/ri";
 
 const options = JSONDATA;
 
@@ -67,26 +68,56 @@ const AddFund = (props) => {
     control: (provided, state) => ({
       ...provided,
       color: "white",
+      alignItems: "center",
+      borderStyle: "none",
+      borderWidth: "none",
+      backgroundColor: "none",
+      borderRadius: 15,
+      boxShadow: "none",
+
+      // border: "none",
     }),
+    container: (provided, state) => ({
+      ...provided,
+    }),
+
     // option: () => ({
     //   ":active": {
     //     color: "red",
     //   },
     // }),
   };
+  //scrollbar
+
   return (
     <div>
-      <Link to="/">Back</Link>
+      <Link to="/">
+        <div className="back">
+          <RiHomeLine size={30} />
+        </div>
+      </Link>
       <div id="outer-div">
         <h1 id="title">Add Fund</h1>
         <h2 id="fund-title">Select a Fund</h2>
         <form onSubmit={formik.handleSubmit} name="form">
           <Select
             id="selectFund"
+            label="Single select"
             value={selectedOption}
             onChange={handleChange}
             options={options}
             styles={customStyles}
+            theme={(theme) => ({
+              ...theme,
+              borderRadius: 15,
+              outline: "none",
+
+              colors: {
+                ...theme.colors,
+                primary25: "#cfcfcf",
+                primary: "black",
+              },
+            })}
           />
           <h2 id="amt-title">Amount Invested</h2>
           <input

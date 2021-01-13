@@ -30,7 +30,7 @@
   padding-left: 10px;
   font-size: large;
   margin-bottom: 10px;
-  border-radius: 25px;
+  border-radius: 15px;
   background: #413d3d;
   box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
   color: white;
@@ -46,7 +46,7 @@
   outline: none;
   padding-left: 10px;
   font-size: large;
-  border-radius: 25px;
+  border-radius: 15px;
   background: #413d3d;
   box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
   color: white;
@@ -55,7 +55,7 @@
   height: 40px;
   width: 70px;
   margin-top: 20px;
-  border-radius: 25px;
+  border-radius: 15px;
   background: #413d3d;
   box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
   color: white;
@@ -66,10 +66,23 @@
   /* background: #413d3d; */
   box-shadow: 15px 15px 30px #2f2d2d, -15px -15px 30px #534d4d;
   color: white;
+  outline: none;
+  padding-left: 5px;
 }
-#selectFund::first-line {
-  color: white;
-}
+
 #btn-text {
   color: white;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+.back {
+  color: white;
+  position: relative;;
+  text-decoration: none;
+  margin-top: 30px;
+  margin-left: 50px;
+  
 }
