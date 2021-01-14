@@ -35,6 +35,14 @@ const AddFund = (props) => {
     onSubmit: (values) => {
       values.fundName = selectedOptions.fundName;
       values.code = selectedOptions.code;
+      if (
+        values.fundName === "" ||
+        values.code === 0 ||
+        values.amtInvested === null ||
+        values.dateOfInvestment === null
+      ) {
+        return alert("Complete all the inputs");
+      }
 
       addFund((prevFunds) => [
         ...prevFunds,
