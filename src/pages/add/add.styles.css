@@ -25,7 +25,8 @@
 #amt-input {
   border: none;
   height: 40px;
-  width: 250px;
+  width: 33%;
+  min-width: 200px;
   border-radius: 4px;
   outline: none;
   padding-left: 10px;
@@ -42,7 +43,8 @@
 }
 #date-input {
   height: 40px;
-  width: 250px;
+  width: 33%;
+  min-width: 200px;
   border-radius: 4px;
   outline: none;
   border: none;
@@ -55,7 +57,7 @@
 }
 #submit {
   border: none;
-  outline:none;
+  outline: none;
   height: 40px;
   width: 70px;
   margin-top: 20px;
@@ -84,9 +86,8 @@ input[type="number"]::-webkit-outer-spin-button {
 
 .back {
   color: white;
-  position: relative;;
+  position: relative;
   text-decoration: none;
   margin-top: 30px;
   margin-left: 50px;
-  
 }
