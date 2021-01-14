@@ -39,7 +39,7 @@ class GraphPage extends React.Component {
             <RiHomeLine size={30} />
           </div>
         </Link>
-        {console.log(this.state)}
+        {/* {console.log(this.state)} */}
         <Graph data={data} />
       </div>
     );

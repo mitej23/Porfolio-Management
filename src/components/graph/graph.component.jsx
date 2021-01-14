@@ -17,21 +17,40 @@ const Graph = (props) => {
       {
         label: "NAV",
         data: amtdata,
-        fill: false,
+        fill: true,
         backgroundColor: "rgb(255, 99, 132)",
         borderColor: "rgba(255, 99, 132, 0.2)",
       },
     ],
   };
-  console.log(data);
+  // console.log(data);
   const options = {
     responsive: false,
     maintainAspectRatio: false,
+    legend: {
+      labels: {
+        fontColor: "white",
+        fontSize: 12,
+      },
+    },
+    elements: {
+      point: {
+        radius: 1,
+      },
+    },
     scales: {
       yAxes: [
         {
           ticks: {
-            beginAtZero: true,
+            fontColor: "white",
+            beginAtZero: false,
+          },
+        },
+      ],
+      xAxes: [
+        {
+          ticks: {
+            fontColor: "white",
           },
         },
       ],
