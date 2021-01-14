@@ -5,21 +5,26 @@ import "./graph.style.css";
 import { Line } from "react-chartjs-2";
 
 const Graph = (props) => {
+  const red = "#e75757";
+  const green = "#79ea86";
   const labeldata = [];
   const amtdata = [];
   props.data.map((item) => {
-    labeldata.push(item[0]);
-    amtdata.push(item[1]);
+    labeldata.unshift(item[0]);
+    amtdata.unshift(item[1]);
   });
+  let color;
+  amtdata[0] < amtdata[amtdata.length - 1] ? (color = green) : (color = red);
+  // console.log(amtdata[0], amtdata[amtdata.length - 1]);
   const data = {
     labels: labeldata,
     datasets: [
       {
         label: "NAV",
         data: amtdata,
-        fill: true,
-        backgroundColor: "rgb(255, 99, 132)",
-        borderColor: "rgba(255, 99, 132, 0.2)",
+        fill: "start",
+        backgroundColor: color,
+        borderColor: color,
       },
     ],
   };
@@ -35,6 +40,7 @@ const Graph = (props) => {
     },
     elements: {
       point: {
+        pointStyle: "line",
         radius: 1,
       },
     },
