@@ -33,9 +33,8 @@ class GraphPage extends React.Component {
       });
   }
 
-  render() {
-    //console.log(this.state);
-    const { data } = this.state;
+  render(props) {
+    const { data, name, amt } = this.state;
     return (
       <div>
         <Link to="/">
@@ -45,7 +44,7 @@ class GraphPage extends React.Component {
         </Link>
         <StatsProvider>
           <Graph data={data} />
-          <GraphStats />
+          <GraphStats amt={amt} name={name} />
         </StatsProvider>
       </div>
     );

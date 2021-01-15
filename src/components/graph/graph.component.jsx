@@ -1,28 +1,51 @@
-import React from "react";
+import React, { useEffect, useContext } from "react";
 
 import "./graph.style.css";
 
 import { Line } from "react-chartjs-2";
-//import { StatsContext } from "../graph-stats/graph-stats.context";
+import { StatsContext } from "../graph-stats/graph-stats.context";
 
 const Graph = (props) => {
-  // const [stats, changeStats] = useContext(StatsContext);
+  //context variables
+  let high = 0;
+  let low = 1000;
+  let start = 0;
+  let last = 0;
+  //graph
+  const [stats, changeStats] = useContext(StatsContext);
+  console.log(stats);
   const red = "#e75757";
   const green = "#79ea86";
   const labeldata = [];
   const amtdata = [];
-  props.data.map((item) => {
+  props.data.map((item, index) => {
+    if (index === 0) {
+      high = item[1];
+      low = item[1];
+      start = item[1];
+    }
+    if (index === props.data.length - 1) {
+      last = item[1];
+    }
     labeldata.unshift(item[0]);
     amtdata.unshift(item[1]);
+    if (item[1] > high) {
+      high = item[1];
+    } else if (item[1] < low) {
+      low = item[1];
+    }
     return 0;
   });
-
-  // changeStats({
-  //   high: 1000,
-  // });
+  let margin = start - last;
+  useEffect(() => {
+    return changeStats({
+      high: high,
+      low: low,
+      profitOrLoss: margin,
+    });
+  }, [changeStats, high, low, margin]);
   let color;
   amtdata[0] < amtdata[amtdata.length - 1] ? (color = green) : (color = red);
-  // console.log(amtdata[0], amtdata[amtdata.length - 1]);
   const data = {
     labels: labeldata,
     datasets: [
