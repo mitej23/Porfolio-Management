@@ -8,7 +8,7 @@ import FundAmt from "../fund-amt/fund-amt.component";
 function Fund({ fundName, amtInvested, ...otherProps }) {
   return (
     <div className="fund-bar">
-      <FundName name={fundName} {...otherProps} />
+      <FundName name={fundName} amt={amtInvested} {...otherProps} />
       <FundAmt amt={amtInvested} name={fundName} />
     </div>
   );

@@ -12,7 +12,7 @@ const options = JSONDATA;
 const AddFund = (props) => {
   //context
   const [funds, addFund] = useContext(FundContext);
-
+  console.log(funds);
   //state for selectted input
   let [selectedOptions, setOptions] = useState({ fundName: "", code: 0 });
   let [selectedOption] = useState();
@@ -54,7 +54,6 @@ const AddFund = (props) => {
           code: values.code,
         },
       ]);
-      console.log(funds);
       alert("New fund was added");
       homePage();
     },

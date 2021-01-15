@@ -3,8 +3,10 @@ import React from "react";
 import "./graph.style.css";
 
 import { Line } from "react-chartjs-2";
+//import { StatsContext } from "../graph-stats/graph-stats.context";
 
 const Graph = (props) => {
+  // const [stats, changeStats] = useContext(StatsContext);
   const red = "#e75757";
   const green = "#79ea86";
   const labeldata = [];
@@ -13,6 +15,10 @@ const Graph = (props) => {
     labeldata.unshift(item[0]);
     amtdata.unshift(item[1]);
   });
+
+  // changeStats({
+  //   high: 1000,
+  // });
   let color;
   amtdata[0] < amtdata[amtdata.length - 1] ? (color = green) : (color = red);
   // console.log(amtdata[0], amtdata[amtdata.length - 1]);

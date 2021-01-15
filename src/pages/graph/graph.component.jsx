@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import "./graph.styles.css";
 import { RiHomeLine } from "react-icons/ri";
 import Graph from "../../components/graph/graph.component";
+import GraphStats from "../../components/graph-stats/graph-stats.component";
+import { StatsProvider } from "../../components/graph-stats/graph-stats.context";
 
 class GraphPage extends React.Component {
   constructor(props) {
@@ -11,6 +13,8 @@ class GraphPage extends React.Component {
       code: props.location.state.code,
       date: props.location.state.date,
       data: [],
+      name: props.location.state.fundname,
+      amt: props.location.state.amt,
     };
   }
 
@@ -18,7 +22,6 @@ class GraphPage extends React.Component {
     const date = this.state.date;
     const formatedDate =
       date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate();
-    console.log(formatedDate);
     fetch(
       `https://www.quandl.com/api/v3/datasets/AMFI/${
         this.state.code
@@ -31,6 +34,7 @@ class GraphPage extends React.Component {
   }
 
   render() {
+    //console.log(this.state);
     const { data } = this.state;
     return (
       <div>
@@ -39,7 +43,10 @@ class GraphPage extends React.Component {
             <RiHomeLine size={30} />
           </div>
         </Link>
-        <Graph data={data} />
+        <StatsProvider>
+          <Graph data={data} />
+          <GraphStats />
+        </StatsProvider>
       </div>
     );
   }

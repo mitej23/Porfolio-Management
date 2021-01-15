@@ -1,0 +1,13 @@
+.stats {
+  /* background-color: bisque; */
+  height: 400px;
+  width: 55vw;
+  margin: auto;
+  margin-top: 200px;
+  padding-left: 50px;
+}
+h1,
+h2 {
+  color: white;
+  tab-size: 8;
+}
