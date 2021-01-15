@@ -14,6 +14,7 @@ const Graph = (props) => {
   props.data.map((item) => {
     labeldata.unshift(item[0]);
     amtdata.unshift(item[1]);
+    return 0;
   });
 
   // changeStats({
