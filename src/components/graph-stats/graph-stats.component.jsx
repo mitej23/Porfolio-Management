@@ -3,7 +3,7 @@ import "./graph-stats.component.css";
 import { StatsContext } from "./graph-stats.context";
 
 const GraphStats = () => {
-  const [stats, changeStats] = useContext(StatsContext);
+  const [stats] = useContext(StatsContext);
   console.log(stats);
   return (
     <div className="stats">
