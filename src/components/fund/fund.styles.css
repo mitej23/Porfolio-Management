@@ -3,10 +3,16 @@
   height: 15%;
   width: 95%;
   border-radius: 15px;
-  margin: 1%;
+  margin: 3%;
   align-content: center;
-  /* border-style: inset; */
   border-radius: 25px;
   background: #413d3d;
   box-shadow: 10px 10px 20px #2f2d2d, -10px -10px 20px #534d4d;
+}
+@media screen and (max-width: 480px) {
+  .fund-bar {
+    margin: 3%;
+    margin-top: 20px;
+    box-shadow: 2px 2px 6px #2f2d2d, -2px -2px 4px #534d4d;
+  }
 }

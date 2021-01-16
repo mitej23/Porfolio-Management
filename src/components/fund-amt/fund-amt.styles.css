@@ -5,8 +5,14 @@
   width: 25%;
   justify-content: center;
 }
-.amt-h1{
+.amt-h1 {
   margin: auto;
   text-align: right;
-  color:white
+  color: white;
+}
+@media screen and (max-width: 480px) {
+  .amt-h1 {
+    font-size: x-large;
+    padding-top: 9px;
+  }
 }

@@ -5,3 +5,8 @@
   padding-top: 3px;
   color: white;
 }
+@media screen and (max-width: 480px) {
+  .inv-amt {
+    padding-right: 0;
+  }
+}

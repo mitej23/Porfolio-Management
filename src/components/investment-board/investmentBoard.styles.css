@@ -1,5 +1,4 @@
 .inv-board {
-  display: flex;
   border-radius: 25px;
   margin: 1%;
   height: 600px;
@@ -16,5 +15,13 @@
 }
 .empty {
   color: white;
-  margin: auto;
+  margin-left: 40%;
+  margin-top: 25%;
+}
+@media screen and (max-width: 480px) {
+  .empty {
+    color: white;
+    margin-left: 7%;
+    margin-top: 70%;
+  }
 }
