@@ -2,7 +2,7 @@
   display: flex;
   border-radius: 25px;
   margin: 1%;
-  height: 90%;
+  height: 600px;
   justify-content: center;
   flex-flow: wrap;
   overflow-y: scroll;
@@ -13,4 +13,8 @@
 
 .inv-board::-webkit-scrollbar {
   display: none;
+}
+.empty {
+  color: white;
+  margin: auto;
 }

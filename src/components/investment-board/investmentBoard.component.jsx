@@ -5,13 +5,16 @@ import "./investmentBoard.styles.css";
 import Fund from "../fund/fund.component";
 
 function InvestmentBoard(props) {
-  //console.log(props);
   return (
     <div>
       <div className="inv-board">
-        {props.data.map(({ id, ...otherProps }) => (
-          <Fund key={id} {...otherProps} />
-        ))}
+        {props.data.length > 0 ? (
+          props.data.map(({ id, ...otherProps }) => (
+            <Fund key={id} {...otherProps} />
+          ))
+        ) : (
+          <div className="empty">To add a fund click on "Add Fund" button</div>
+        )}
       </div>
     </div>
   );
