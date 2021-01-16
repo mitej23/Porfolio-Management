@@ -16,7 +16,7 @@
 .empty {
   color: white;
   margin-left: 40%;
-  margin-top: 25%;
+  margin-top: 20%;
 }
 @media screen and (max-width: 480px) {
   .empty {

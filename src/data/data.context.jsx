@@ -4,13 +4,13 @@ export const FundContext = createContext();
 
 export const FundProvider = (props) => {
   const [funds, addFund] = useState([
-    // {
-    //   id: 1,
-    //   fundName: "ICICI Prudential Balanced Advantage Fund",
-    //   dateOfInvestment: new Date("2018, 1, 25"),
-    //   amtInvested: 25000,
-    //   code: 104686,
-    // },
+    {
+      id: 1,
+      fundName: "ICICI Prudential Balanced Advantage Fund",
+      dateOfInvestment: new Date("2018, 1, 25"),
+      amtInvested: 25000,
+      code: 104686,
+    },
     // {
     //   id: 2,
     //   fundName: "HDFC Prudence Fund - Dividend Option",

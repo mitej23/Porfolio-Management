@@ -1,5 +1,5 @@
 import React, { useEffect, useContext } from "react";
-
+import { useMediaQuery } from "react-responsive";
 import "./graph.style.css";
 
 import { Line } from "react-chartjs-2";
@@ -58,7 +58,16 @@ const Graph = (props) => {
       },
     ],
   };
-  // console.log(data);
+  let h = 500;
+  let w = 1000;
+  let size = 12;
+  const media = useMediaQuery({ query: "(max-width: 480px)" });
+  console.log(media);
+  if (media) {
+    h = 400;
+    w = 400;
+    size = 8;
+  }
   const options = {
     responsive: false,
     maintainAspectRatio: false,
@@ -87,14 +96,24 @@ const Graph = (props) => {
         {
           ticks: {
             fontColor: "white",
+            fontSize: size,
+            autoSkip: true,
+            maxTicksLimit: 10,
           },
         },
       ],
     },
   };
+
   return (
     <div id="chart" className="top-container">
-      <Line height={500} width={1000} data={data} options={options} />
+      <Line
+        height={h}
+        width={w}
+        data={data}
+        options={options}
+        className="graph"
+      />
     </div>
   );
 };
