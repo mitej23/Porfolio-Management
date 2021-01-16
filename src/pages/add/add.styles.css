@@ -96,7 +96,7 @@ input[type="number"]::-webkit-outer-spin-button {
   #outer-div {
     height: 70vh;
     width: 90vw;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     padding: 50px;

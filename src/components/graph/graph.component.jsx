@@ -64,8 +64,8 @@ const Graph = (props) => {
   const media = useMediaQuery({ query: "(max-width: 480px)" });
   console.log(media);
   if (media) {
-    h = 400;
-    w = 400;
+    h = 280;
+    w = 380;
     size = 8;
   }
   const options = {
@@ -74,7 +74,7 @@ const Graph = (props) => {
     legend: {
       labels: {
         fontColor: "white",
-        fontSize: 12,
+        fontSize: size,
       },
     },
     elements: {
