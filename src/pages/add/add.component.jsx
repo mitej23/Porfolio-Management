@@ -82,19 +82,13 @@ const AddFund = (props) => {
       borderRadius: 15,
       boxShadow: "none",
 
-      // border: "none",
+      
     }),
     container: (provided, state) => ({
       ...provided,
     }),
-
-    // option: () => ({
-    //   ":active": {
-    //     color: "red",
-    //   },
-    // }),
   };
-  //scrollbar
+ 
 
   return (
     <div>

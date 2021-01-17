@@ -62,7 +62,6 @@ const Graph = (props) => {
   let w = 1000;
   let size = 12;
   const media = useMediaQuery({ query: "(max-width: 480px)" });
-  console.log(media);
   if (media) {
     h = 280;
     w = 380;
